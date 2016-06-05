@@ -1,0 +1,192 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+<link href='https://fonts.googleapis.com/css?family=Playfair+Display:700' rel='stylesheet' type='text/css'>
+{% include head.html %}
+</head>
+
+<body id="page">
+
+{% include navigation.html %}
+
+<div id="main" role="main">
+  <article class="entry">
+    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></p>{% endif %}{% endif %}
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+      </header>
+      <div class="entry-content">
+        {{ content }}
+      </div><!-- /.entry-content -->
+      <div class="">
+      
+      </div>
+    </div><!-- /.entry-wrapper -->
+    
+    
+    <!-- My Code -->
+        <!-- Our Team -->
+        <section class="container">         
+        <p id="team" class="col-sm-12 text-center">Our Team</p>
+        </section>
+        
+        <!-- Managers -->
+        <section class="container">
+        <p id="manager" class="col-sm-12 text-center" >Managers</p>
+        </section>
+        
+        <!-- Manager List -->
+        
+        <section class="container">
+        <div class="col-sm-2"></div>
+        
+                <!-- Manager 1 -->
+        <div class="col-sm-3 manager">
+        <a class="mybox" href="{{ page.manager1.fblink }}"><img src="{{ site.url }}/images/{{ page.manager1.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.manager1.name }}</p>
+        </div>
+        </div>
+                <!-- /Manager 1 -->
+                
+                 
+        <div class="col-sm-2"></div>
+        
+                <!-- Manager 2 -->
+        <div class="col-sm-3 manager">
+        <a class="mybox" href="{{ page.manager2.fblink }}"><img src="{{ site.url }}/images/{{ page.manager2.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.manager2.name }}</p>
+        </div>
+        </div>
+                <!-- /Manager 2 -->
+        
+        <div class="col-sm-2"></div>
+        </section>
+        <!-- /Manager List -->
+        
+        <!-- Conveners -->
+        <section class="container">
+        <p id="convener" class="col-sm-12 text-center">Conveners</p>
+        </section>
+        
+        <!-- Convener List -->
+        
+                <!-- Convener1 -->
+        <section class="container">
+        <div class="col-sm-4 manager convener ">
+        <a class="mybox" href="{{ page.convener1.fblink }}"><img src="{{ site.url }}/images/{{ page.convener1.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.convener1.name}}</p>
+        </div>
+        </div>
+                <!-- /Convener 1 -->
+                
+                <!-- Convener 2 -->                        
+        <div class="col-sm-4 manager convener">
+        <a class="mybox" href="{{ page.convener2.fblink }}"><img src="{{ site.url }}/images/{{ page.convener2.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.convener2.name}}</p>
+        </div>
+        </div>
+                <!-- /Convener2 -->
+
+                <!-- Convener 3 -->                
+        <div class="col-sm-4 manager convener">
+        <a class="mybox" href="{{ page.convener3.fblink }}"><img src="{{ site.url }}/images/{{ page.convener3.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.convener3.name}}</p>
+        </div>
+        </section>
+                <!-- /Convener 3 -->       
+                
+                 
+        <section class="container">
+        
+                <!-- Convener 4 -->        
+        <div class="col-sm-4 manager convener">
+        <a class="mybox" href="{{ page.convener4.fblink }}"><img src="{{ site.url }}/images/{{ page.convener4.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.convener4.name}}</p>
+        </div>         
+        </div>
+                <!-- /Convener 4 -->        
+                
+                <!-- Convener 5 -->                
+        <div class="col-sm-4 manager convener">
+        <a class="mybox" href="{{ page.convener5.fblink }}"><img src="{{ site.url }}/images/{{ page.convener5.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.convener5.name}}</p>
+        </div>
+        </div>
+                <!-- Convener 5 -->        
+
+                <!-- Convener 6 -->
+        <div class="col-sm-4 manager convener">
+        <a class="mybox" href="{{ page.convener6.fblink }}"><img src="{{ site.url }}/images/{{ page.convener6.image }}" title="Facebook">
+        <div class="myoverbox">
+        <div class="mytitle myovertext">f</div>
+        </div>
+        </a>
+        <div class="name">
+        <p>{{ page.convener6.name}}</p>
+        </div>
+        </section>
+                <!-- Convener 6 -->            
+    
+    
+    
+    
+    
+    
+    
+    <!--/MyCode-->
+    
+    
+    
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo" class="entry-wrapper">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+{% include scripts.html %}
+
+</body>
+</html>

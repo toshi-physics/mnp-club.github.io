@@ -1,0 +1,29 @@
+# Authors
+
+Dhruv:
+  name: Dhruv Ilesh Shah
+  web: 
+  email: billy@rick.com
+  bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: bio-photo-2.jpg
+  twitter: extravagantman
+  google:
+    plus: BillyRick
+
+cornelius_fiddlebone:
+  name: Cornelius Fiddlebone
+  email: cornelius@thewhip.com
+  bio: "I ordered what?"
+  avatar: bio-photo.jpg
+  twitter: rhymeswithsackit
+  google:
+    plus: CorneliusFiddlebone
+<<<<<<< HEAD
+
+dhruv_shah:
+  name: Dhruv Ilesh Shah
+  email: dhruv.ilesh@gmail.com
+  bio: "Call me what? Schrodinger's Cat!"
+
+=======
+>>>>>>> 6b292183c2aa8552d0a760144592b9b99a91b676
