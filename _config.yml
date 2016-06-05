@@ -61,6 +61,6 @@ owner:
   weibo: #userid
   google:
     plus: #username
-    analytics:
+    analytics: UA-78761274-1
     verify:
   bing-verify:
