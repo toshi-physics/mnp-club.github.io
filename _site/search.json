@@ -3,7 +3,7 @@
   
     {
       "title"			: "Brain's Positioning System",
-      "link"			: "http://localhost:4000/blog/brain_positioning_system/",
+      "link"			: "http://mnp-club.github.io/blog/brain-positioning/",
       "excerpt"		: "Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century.Like the GPS in our phones and cars, our brain has a sophisticated positioning system. The brain integrates sensory data and knowledge of our current position to judge where we are headed. Only when we are lost or suffer from neurodegenerative diseases do we realise how critical our positioning system is to our survival."
     }
   
@@ -11,7 +11,7 @@
   
     ,{
       "title"			: "Memristors and the Future of Computing",
-      "link"			: "http://localhost:4000/blog/memristors/",
+      "link"			: "http://mnp-club.github.io/blog/memristors/",
       "excerpt"		: "In 1965, Gordon Moore predicted that the number of transistors in a dense integrated circuit doubles approximately every two years, and since then every manufacturer has been fighting hard to keep up with the Moore’s Law. With the scale of transistor entering sub-20nm, this number is saturating and Moore’s Law has begun to fail us. So what have the scientists and researchers got us? Behold the  Memristor  (a portmanteau of the words memory and resistor)!"
     }
   
@@ -31,7 +31,7 @@
   
     ,{
       "title"			: "About us",
-      "link"			: "http://localhost:4000/about/",
+      "link"			: "http://mnp-club.github.io/about/",
       "excerpt"		: "Maths And Physics Club is"
     }
   
