@@ -6,6 +6,7 @@ categories: blog
 excerpt:
 tags: [MnP, Summers]
 author : dhruv_shah
+comments: true
 image:
   feature:
 date: 2016-05-31T10:19:07+00:00
