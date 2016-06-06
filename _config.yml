@@ -6,7 +6,6 @@ description: Where Knowledge is free...
 logo: site-logo.png
 search: true
 url: http://mnp-club.github.io
-
 # Jekyll configuration
 
 permalink:   /:categories/:title/
