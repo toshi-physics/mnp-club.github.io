@@ -6,6 +6,7 @@ description: Where Knowledge is free...
 logo: site-logo.png
 search: true
 url: http://mnp-club.github.io
+
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -26,6 +27,8 @@ kramdown:
   enable_coderay: false
 
 mathjax: true
+
+future: true
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
