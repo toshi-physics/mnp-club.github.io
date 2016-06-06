@@ -11,7 +11,7 @@ image:
 date: 2016-06-06T00:01:22+00:00
 ---
 
-##Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century.
+## Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century.
   
 Like the GPS in our phones and cars, our brain has a sophisticated positioning system. The brain integrates sensory data and knowledge of our current position to judge where we are headed. Only when we are lost or suffer from neurodegenerative diseases do we realise how critical our positioning system is to our survival.
 
