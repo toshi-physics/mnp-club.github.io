@@ -9,6 +9,7 @@ author : thariq
 image:
   feature:
 date: 2016-06-06T00:01:22+00:00
+comments: true
 ---
 
 ## Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century.

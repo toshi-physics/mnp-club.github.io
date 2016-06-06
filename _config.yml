@@ -66,4 +66,6 @@ owner:
     analytics: UA-78761274-1
     verify:
   bing-verify:
-  disqus-shortname:
+  disqus-shortname: mnp-club
+  disqus-comment_count: true
+  disqus-developer_mode: true
