@@ -1,5 +1,6 @@
 <?php
 
+
 if( urldecode($_GET['auth']) !== $_SERVER['GITHUB_MNP_CLUB_SECRET']){
 	printf('Unauthorized');
 	http_response_code(401);
