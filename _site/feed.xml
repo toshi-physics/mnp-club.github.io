@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Maths & Physics Club</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://mnp-club.github.io/feed.xml" />
-<link rel="alternate" type="text/html" href="http://mnp-club.github.io" />
-<updated>2016-06-15T00:29:27+00:00</updated>
-<id>http://mnp-club.github.io/</id>
+<link rel="self" type="application/atom+xml" href="https://stab-iitb.org/math-and-physics-club/feed.xml" />
+<link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club" />
+<updated>2016-06-15T00:43:28+00:00</updated>
+<id>https://stab-iitb.org/math-and-physics-club/</id>
 <author>
   <name>Maths And Physics Club</name>
-  <uri>http://mnp-club.github.io/</uri>
+  <uri>https://stab-iitb.org/math-and-physics-club/</uri>
   <email>mnp-club-iitb@googlegroups.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Brain's Positioning System]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/brain-positioning/" />
-  <id>http://mnp-club.github.io/blog/brain-positioning</id>
+  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/" />
+  <id>https://stab-iitb.org/math-and-physics-club/blog/brain-positioning</id>
   <published>2016-06-06T00:01:22+00:00</published>
   <updated>2016-06-06T00:01:22+00:00</updated>
   <author>
     <name>Thariq Shanavas</name>
-    <uri>http://mnp-club.github.io</uri>
+    <uri>https://stab-iitb.org/math-and-physics-club</uri>
     
   </author>
   <content type="html">
@@ -56,20 +56,20 @@ It is now believed that the hippocampus stores not just the position, but also t
 &lt;p&gt;&lt;b&gt;However, the scientific world is still pretty much in the dark as to how this information is used by the rest of the brain’s systems or the evolutionary origins of this intricate mechanism. The location systems of the brain and the mechanisms of memory formation will undoubtedly be a fascinating area of research for many years to come.&lt;/b&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/brain-positioning/&quot;&gt;Brain&#39;s Positioning System&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/&quot;&gt;Brain&#39;s Positioning System&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Memristors and the Future of Computing]]></title>
-  <link rel="alternate" type="text/html" href="http://mnp-club.github.io/blog/memristors/" />
-  <id>http://mnp-club.github.io/blog/memristors</id>
+  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/memristors/" />
+  <id>https://stab-iitb.org/math-and-physics-club/blog/memristors</id>
   <published>2016-05-31T10:19:07+00:00</published>
   <updated>2016-05-31T10:19:07+00:00</updated>
   <author>
     <name>Dhruv Ilesh Shah</name>
-    <uri>http://mnp-club.github.io</uri>
+    <uri>https://stab-iitb.org/math-and-physics-club</uri>
     <email>dhruv.ilesh@gmail.com</email>
   </author>
   <content type="html">
@@ -95,7 +95,7 @@ It is now believed that the hippocampus stores not just the position, but also t
 
 &lt;p&gt;&lt;i&gt;The outcome of this revolution would only be evident by the next decade, but the fact that nano-electronics has enabled us to revolutionarise the micro-electronics industry is a clear signal - to cope up with our growing computing needs, to explore the vastness of Universe, the path goes from within the Nano World! Memristors and Qubits are all set to power the upcoming generations in unfolding the mysteries of our creation, existence and the universe (multiple of them, in fact!)&lt;/i&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io/blog/memristors/&quot;&gt;Memristors and the Future of Computing&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 31, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/memristors/&quot;&gt;Memristors and the Future of Computing&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 31, 2016.&lt;/p&gt;
   </content>
 </entry>
 

@@ -1,5 +1,6 @@
 <?php
 
+
 if( urldecode($_GET['auth']) !== $_SERVER['GITHUB_MNP_CLUB_SECRET']){
 	printf('Unauthorized');
 	http_response_code(401);
@@ -9,7 +10,7 @@ if( urldecode($_GET['auth']) !== $_SERVER['GITHUB_MNP_CLUB_SECRET']){
 
 	var_dump($data->ref);
 	if($data->ref === 'refs/heads/master'){
-		echo shell_exec("sudo -u root /usr/bin/webhook_update.sh https://github.com/parthjatakia/parthjatakia.github.io math-and-physics-club");
+		echo shell_exec("sudo -u root /usr/bin/webhook_update.sh https://github.com/mnp-club/mnp-club.github.io math-and-physics-club");
 		printf('OK');
 		http_response_code(200);
 	} else {
