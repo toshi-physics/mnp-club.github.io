@@ -2,14 +2,7 @@
 sitemap: false
 ---
 
-/*
- *
- *  So Simple
- *
- *  Designer: Michael Rose
- *  Twitter: http://twitter.com/mmistakes
- *
-*/
+
 
 @import "variables";
 
@@ -60,3 +53,8 @@ sitemap: false
 ================================================================================*/
 
 @import "about"; /*apply to about about*/
+
+/* Events Specifics
+================================================================================*/
+
+@import "events"; /*apply to events page*/

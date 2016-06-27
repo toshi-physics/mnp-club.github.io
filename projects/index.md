@@ -3,6 +3,8 @@ layout: page
 title: Projects
 excerpt: "An archive of projects done ."
 search_omit: true
+image:
+  feature: About_img.jpg
 ---
 
 <ul class="post-list">
