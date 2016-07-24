@@ -52,7 +52,7 @@ Now let us examine a few geometric properties. Define the complex conjugate of $
 
 $$|(x,y)| = sqrt(|x^2 –py^2|)$$
 
-A unit circle is then defined as the set $(x,y) for |x,y|=1$
+A unit circle is then defined as the set $(x,y) for \|x,y\|=1$
 
 This represents an *ellipse* for $p \langle 0$ (Elliptical number system), a pair of parallel lines for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for  $p\rangle 0$ (Hyperbolic Number system). The argument of a complex number $T(x,y)$ is defined as twice the area of the portion of the unit circle cut out by the ray OT and the real axis, O being the origin (this definition isn’t complete. The attached article gives a fuller account). These definitions give us the beautiful result:
 
