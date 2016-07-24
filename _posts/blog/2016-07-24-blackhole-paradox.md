@@ -11,17 +11,24 @@ image:
   feature:
 date: 2016-07-24T10:19:07+00:00
 ---
+Does the baffle still remain?
+
 ### Introduction
 From a talk given on Aug ‘15 at a conference held at Stockholm$^{[1]}$; Stephen Hawking, the well-celebrated british physicist, proposed a resolution of the infamous Information loss paradox, a child of his own theory of Hawking Radiation $^{[2][3]}$ that overturned the widely perpetuated belief that nothing escapes from a black hole’s event horizon. In the interim, this left most of his contemporaries bemused since his theory had no mathematical backbone. A rigorous paper$^{[4]}$ collaborated by Hawking, Malcolm & Strominger in the January of ‘16, humorously entitled ‘Soft Hair on Black Holes’, attempts to pave a mathematical map to resolve the paradox once and for all. But Hawking et al conclude$^{[4]}$ that they’ve just introduced fresh & concrete tools to address the paradox and a complete description still remains an open challenge.  
+
+
 ### What exactly IS the paradox?
 The information loss paradox is yet another acclaimed scenario where Quantum Mechanics, describing the subatomic world with the highest precision and General Relativity, equally successful at the cosmic scale, act stubbornly incompatible$^{[10]}$.
 General Relativity implies that once a system ‘falls’$^{[5]}$ in the black hole, any information regarding the system can not affect an outside observer, thus for all practical purposes the information is irretrievable. Notice, that we use irretrievable instead of destroyed, i.e. it doesn’t posses a problem if the black hole remains an ever absorbing body.
+
+
 ### The Hawking Radiation
 
 Around 1975, due to a remarkable connection made by Hawking$^{[6]}$ and Beckenstein$^{[7]}$ between Thermodynamics, Quantum Mechanics and Black Holes, Hawking Radiation came into picture which collapsed the possibility of everlasting black holes to null.
 Hawking Radiation stated that black holes, in fact, aren’t as black as we expected them to be. Courtesy to locally small quantum effects$^{[2]}$, (which are ignored in the process of formation and evolution of black holes since the radius of curvature of spacetime outside the event horizon is very large compared to the Planck length$^{[11]}$, the length scale on which quantum fluctuations of the metric are expected to be of order unity) add up to produce a significant effect over the lifetime of the Universe. This simply implies that any black hole will create and emit particles such as neutrinos or photons at just the rate that one would expect if the black hole of M solar masses was similar to a blackbody, with temperature of about $6 × 10^{-8}$/M kelvins$^{[8]}$.
 The fact that a black hole will emit photons when none escape is indigestible.
 In layman language$^{[9]}$, Quantum Mechanics capacitates a constant potential for “virtual” Particle - Antiparticle pair to be created and annihilated, leaving a net zero state. Same phenomenon at the knife edge of the event horizon permits a possibility when one escapes, while the other plunges immediately into the black hole. Rather than instant annihilation, the “virtual” particle becomes real and escapes; making a petty energy drain on the black hole. The rate at which the energy dissipates from a black hole of M solar masses spares a massive 1071M3 seconds$^{[8]}$ as any black hole’s life period. Any such black hole of mass less than 1015 g would have evaporated by now. Near the end of its life the rate of emission would be very high and about 1030 erg would be released in the last 0.1 s$^{[2]}$. This is a fairly small explosion by astronomical standards but it is equivalent to about 1 million 1 Mton hydrogen bombs.
+
 
 ### Aftermaths of Hawking Radiation Theory
 
@@ -46,22 +53,24 @@ The supertranslations form a hologram of the ingoing particles at the horizon(Fo
 ### Bibliography
 
 [1] [The Information Paradox for Black Holes](http://arxiv.org/pdf/1509.01147v1.pdf)
-[2] [Black Hole Explosions?](http://www.nature.com/nature/journal/v248/n5443/abs/248030a0.html)
-[3] [Particle Creation by Black Holes](http://inspirehep.net/record/101338?ln=en)
-[4] [Soft Hair on Black Holes](http://arxiv.org/pdf/1601.00921v1.pdf)
-[5] [Event Horizon](https://www.wikiwand.com/en/Event_horizon)
-[6] [Breakdown of Predictability in Gravitational Collapse](http://journals.aps.org/prd/pdf/10.1103/PhysRevD.14.2460)
-[7] [Black Holes & Entropy](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.7.2333)
-[8] [Hawking Radiation](http://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/hawking.html)
-[9] [Wordpress Blog](https://starguyspeaks.wordpress.com/2016/02/21/on-steven-hawkings-new-theory-of-black-holes/)
-[10] [The Final Contradiction](http://theory.caltech.edu/people/jhs/strings/str115.html)
-[11] [Description of States in Quantum Mechanics by Density Matrix and Operator Techniques](http://journals.aps.org/rmp/pdf/10.1103/RevModPhys.29.74)
-[12] [Unitary Operator](https://www.wikiwand.com/en/Unitary_operator)
-[13] [S-Matrix](https://www.wikiwand.com/en/S-matrix)
-[14] [Black Hole Information Loss Problem](http://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/info_loss.html)
-[15] [No-Hair Theorem](https://www.wikiwand.com/en/No-hair_theorem)
-[16] [Conservative solutions to the black hole Information loss problem](http://arxiv.org/pdf/0901.3156v1.pdf)
-[17] [The AdS/CFT Correspondence](https://arxiv.org/pdf/1501.00007.pdf)
-[18] [Dimensional Reduction in Quantum Gravity](http://xxx.lanl.gov/abs/gr-qc/9310026)
-[19] [The World as Hologram](http://xxx.lanl.gov/abs/hep-th/9409089)
+
+
+[2] [Black Hole Explosions?](http://www.nature.com/nature/journal/v248/n5443/abs/248030a0.html)  
+[3] [Particle Creation by Black Holes](http://inspirehep.net/record/101338?ln=en)  
+[4] [Soft Hair on Black Holes](http://arxiv.org/pdf/1601.00921v1.pdf)  
+[5] [Event Horizon](https://www.wikiwand.com/en/Event_horizon)  
+[6] [Breakdown of Predictability in Gravitational Collapse](http://journals.aps.org/prd/pdf/10.1103/PhysRevD.14.2460)  
+[7] [Black Holes & Entropy](http://journals.aps.org/prd/abstract/10.1103/PhysRevD.7.2333)  
+[8] [Hawking Radiation](http://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/hawking.html)  
+[9] [Wordpress Blog](https://starguyspeaks.wordpress.com/2016/02/21/on-steven-hawkings-new-theory-of-black-holes/)  
+[10] [The Final Contradiction](http://theory.caltech.edu/people/jhs/strings/str115.html)  
+[11] [Description of States in Quantum Mechanics by Density Matrix and Operator Techniques](http://journals.aps.org/rmp/pdf/10.1103/RevModPhys.29.74)  
+[12] [Unitary Operator](https://www.wikiwand.com/en/Unitary_operator)  
+[13] [S-Matrix](https://www.wikiwand.com/en/S-matrix)  
+[14] [Black Hole Information Loss Problem](http://math.ucr.edu/home/baez/physics/Relativity/BlackHoles/info_loss.html)  
+[15] [No-Hair Theorem](https://www.wikiwand.com/en/No-hair_theorem)  
+[16] [Conservative solutions to the black hole Information loss problem](http://arxiv.org/pdf/0901.3156v1.pdf)  
+[17] [The AdS/CFT Correspondence](https://arxiv.org/pdf/1501.00007.pdf)  
+[18] [Dimensional Reduction in Quantum Gravity](http://xxx.lanl.gov/abs/gr-qc/9310026)  
+[19] [The World as Hologram](http://xxx.lanl.gov/abs/hep-th/9409089)  
 [20] [Interview by co-author Andrew Strominger](http://blogs.scientificamerican.com/dark-star-diaries/stephen-hawking-s-new-black-hole-paper-translated-an-interview-with-co-author-andrew-strominger/))
