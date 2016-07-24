@@ -18,17 +18,17 @@ Generalized Complex Numbers:
 
 Here we redefine the multiplication on the set $R\cdot R$ while preserving certain properties. Addition is defined as before. We desire multiplication to be associative, commutative and distributive. Further we want to satisfy:
 
-$$ (x_1,y_1)*(x,0) = (x*x_1,x*y_1) $$
+$$ (x_1,y_1)\cdot (x,0) = (x\cdot x_1,x\cdot y_1) $$
 
-This is because we still want to interpret the set {(x,0)| x is real} as “purely real” numbers. Thus we can interpret (x,y) as
+This is because we still want to interpret the set {(x,0)| x is real} as “purely real” numbers. Thus we can interpret $(x,y)$ as
 
-(x,y) = (x,0)*(1,0)+(y,0)*(0,1)
+$$(x,y) = (x,0)\cdot (1,0)+(y,0)\cdot (0,1)$$
 
 The properties of the new multiplication discussed so far allow us to conclude:
 
-$$(x_1,y_1)*(x_2,y_2)= =x_1x_2 + (0,1)(0,1)y_1y_2 + (x_1y_2 + x_2y_1)(0,1)$$
+$$(x_1,y_1)\cdot (x_2,y_2)= =x_1x_2 + (0,1)(0,1)y_1y_2 + (x_1y_2 + x_2y_1)(0,1)$$
 
-Thus, it all boils down to the definition of (0,1)*(0,1) . We may now define:
+Thus, it all boils down to the definition of (0,1)\cdot (0,1) . We may now define:
 
 $$(0,1)(0,1)=(p,q)$$
 
@@ -67,7 +67,7 @@ Application to Special Relativity and Lorentz Transformation:
 
 Consider $ p=\frac{1}{c_2}$ and let $(t,x)$ and $(t',x')$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and w be the unit complex number $\frac{z}{|z|}$. Then
 
-$$(t,x)*w =  (t',x')$$
+$$(t,x)\cdot w =  (t',x')$$
 
 Thus, the Lorentz transform in two dimensional Special Relativity is a rotation in the hyperbolic complex plane! This means the modulus doesn’t change under this transform. Which means:
 
@@ -75,6 +75,6 @@ $$(ct)^2 – x^2 = (ct')^2 – x'^2$$
 
 It is also interesting to note that if p=0, (the case of dual numbers), then w = (1,v) is a unit complex number and multiplication by it gives us the Galilean transformation.
 
-$$(t,x)*(1,v) = (t, x+vt )$$
+$$(t,x)\cdot (1,v) = (t, x+vt )$$
 
 You can find more exciting stuff like trigonometry in various cases (p<0, p=0, p>0) and the generalizations of Euler’s formula in the article. Have fun exploring their properties. If you come to know of any other applications of generalized complex numbers, please do share!
