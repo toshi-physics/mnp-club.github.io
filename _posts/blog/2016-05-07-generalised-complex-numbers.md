@@ -16,7 +16,7 @@ Have you ever wondered, why is multiplication of complex numbers defined in such
 
 Generalized Complex Numbers:
 
-Here we redefine the multiplication on the set $RxR$ while preserving certain properties. Addition is defined as before. We desire multiplication to be associative, commutative and distributive. Further we want to satisfy:
+Here we redefine the multiplication on the set $R\cdot R$ while preserving certain properties. Addition is defined as before. We desire multiplication to be associative, commutative and distributive. Further we want to satisfy:
 
 $$ (x_1,y_1)*(x,0) = (x*x_1,x*y_1) $$
 
@@ -32,7 +32,7 @@ Thus, it all boils down to the definition of (0,1)*(0,1) . We may now define:
 
 $$(0,1)(0,1)=(p,q)$$
 
-It turns out, there are only three different ways (unique up to isomorphism as rings) to choose p and q. For example, $q = 0$ and $p = 1 , 0 or -1$. The choice $p = -1$ gives us complex numbers that we are familiar with, $p = 1$ gives double numbers while $p = 0$ gives dual numbers. From here on we assume $q = 0$ and $p$ as any real number and the term complex number refers to generalized complex number.
+It turns out, there are only three different ways (unique up to isomorphism as rings) to choose p and q. For example, $q = 0$ and $p = 1 , 0$ or $-1$. The choice $p = -1$ gives us complex numbers that we are familiar with, $p = 1$ gives double numbers while $p = 0$ gives dual numbers. From here on we assume $q = 0$ and $p$ as any real number and the term complex number refers to generalized complex number.
 
 Application of dual numbers:
 
@@ -52,7 +52,8 @@ Now let us examine a few geometric properties. Define the complex conjugate of $
 
 $$|(x,y)| = sqrt(|x^2 –py^2|)$$
 
-A unit circle is then defined as the set {$(x,y) | |(x,y)| = 1$} This represents an Ellipse for $p<0$ (Elliptic number system), a pair of parallel lines for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for $p>0$ (Hyperbolic Number system). The argument of a complex number $T(x,y)$ is defined as twice the area of the portion of the unit circle cut out by the ray OT and the real axis, O being the origin (this definition isn’t complete. The attached article gives a fuller account). These definitions give us the beautiful result:
+
+A unit circle is then defined as the set $\{(x,y) | |(x,y)| = 1\}$ This represents an Ellipse for $p<0$ (Elliptic number system), a pair of parallel lines for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for $p>0$ (Hyperbolic Number system). The argument of a complex number $T(x,y)$ is defined as twice the area of the portion of the unit circle cut out by the ray OT and the real axis, O being the origin (this definition isn’t complete. The attached article gives a fuller account). These definitions give us the beautiful result:
 
 The modulus of the product is the product of the modulus; and the argument of the product is the sum of arguments.
 
@@ -64,7 +65,7 @@ Geometrically, this means that multiplication by a generalized complex number is
 
 Application to Special Relativity and Lorentz Transformation:
 
-Consider $ p=\frac{1/c_2}$ and let $(t,x)$ and $(t',x')$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and w be the unit complex number $\frac{z/|z|}$. Then
+Consider $ p=\frac{1}{c_2}$ and let $(t,x)$ and $(t',x')$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and w be the unit complex number $\frac{z}{|z|}$. Then
 
 $$(t,x)*w =  (t',x')$$
 
