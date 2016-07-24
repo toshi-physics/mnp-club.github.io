@@ -11,7 +11,7 @@ image:
   feature:
 date: 2016-07-24T10:19:07+00:00
 ---
-Does the baffle still remain?
+___Does the baffle still remain?___
 
 ### Introduction
 From a talk given on Aug ‘15 at a conference held at Stockholm$^{[1]}$; Stephen Hawking, the well-celebrated british physicist, proposed a resolution of the infamous Information loss paradox, a child of his own theory of Hawking Radiation $^{[2][3]}$ that overturned the widely perpetuated belief that nothing escapes from a black hole’s event horizon. In the interim, this left most of his contemporaries bemused since his theory had no mathematical backbone. A rigorous paper$^{[4]}$ collaborated by Hawking, Malcolm & Strominger in the January of ‘16, humorously entitled ‘Soft Hair on Black Holes’, attempts to pave a mathematical map to resolve the paradox once and for all. But Hawking et al conclude$^{[4]}$ that they’ve just introduced fresh & concrete tools to address the paradox and a complete description still remains an open challenge.  
