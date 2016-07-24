@@ -16,7 +16,7 @@ Have you ever wondered, why is multiplication of complex numbers defined in such
 
 Generalized Complex Numbers:
 
-Here we redefine the multiplication on the set $R\cdot R$ while preserving certain properties. Addition is defined as before. We desire multiplication to be associative, commutative and distributive. Further we want to satisfy:
+Here we redefine the multiplication on the set $R\into R$ while preserving certain properties. Addition is defined as before. We desire multiplication to be associative, commutative and distributive. Further we want to satisfy:
 
 $$ (x_1,y_1)\cdot (x,0) = (x\cdot x_1,x\cdot y_1) $$
 
@@ -75,7 +75,7 @@ Thus, the Lorentz transform in two dimensional Special Relativity is a rotation 
 
 $$(ct)^2 – x^2 = (ct')^2 – x'^2$$
 
-It is also interesting to note that if p=0, (the case of dual numbers), then w = (1,v) is a unit complex number and multiplication by it gives us the Galilean transformation.
+It is also interesting to note that if p=0, (the case of dual numbers), then $w = (1,v)$ is a unit complex number and multiplication by it gives us the Galilean transformation.
 
 $$(t,x)\cdot (1,v) = (t, x+vt )$$
 
