@@ -58,9 +58,9 @@ This represents an *ellipse* for $p \lneq 0$ (Elliptical number system), a pair 
 
 _The modulus of the product is the product of the modulus; and the argument of the product is the sum of arguments._
 
-$$\|z1z2\| = \|z1\|\|z2\|$$
+$$\|z_1z_2\| = \|z_1\|\|z_2\|$$
 
-$$Arg(z1z2) = Arg(z1) + Arg(z2)$$
+$$Arg(z_1z_2) = Arg(z_1) + Arg(z_2)$$
 
 Geometrically, this means that multiplication by a generalized complex number is a rotation in the respective plane followed by scaling. Multiplication by a unit complex number is just pure rotation.
 
