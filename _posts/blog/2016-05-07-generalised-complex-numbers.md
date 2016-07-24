@@ -50,16 +50,16 @@ Geometrical Properties:
 
 Now let us examine a few geometric properties. Define the complex conjugate of $(x,y)$ to be $(x,-y)$ as before. Notice that $(x,y)(x,-y) = (x^2 – py^2,0)$ is always a “real number”. So we define modulus of (x,y) as
 
-$$|(x,y)| = sqrt(|x^2 –py^2|)$$
+$$\|(x,y)\| = sqrt(\|x^2 –py^2\|)$$
 
-A unit circle is then defined as the set $(x,y) for \|x,y\|=1$
+A unit circle is then defined as the set $(x,y)$ for $\|x,y\|=1$
 
 This represents an *ellipse* for $p \langle 0$ (Elliptical number system), a pair of parallel lines for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for  $p\rangle 0$ (Hyperbolic Number system). The argument of a complex number $T(x,y)$ is defined as twice the area of the portion of the unit circle cut out by the ray OT and the real axis, O being the origin (this definition isn’t complete. The attached article gives a fuller account). These definitions give us the beautiful result:
 
 
 _The modulus of the product is the product of the modulus; and the argument of the product is the sum of arguments._
 
-$$|z1z2| = |z1||z2|$$
+$$\|z1z2\| = \|z1\|\|z2\|$$
 
 $$Arg(z1z2) = Arg(z1) + Arg(z2)$$
 
@@ -67,7 +67,7 @@ Geometrically, this means that multiplication by a generalized complex number is
 
 Application to Special Relativity and Lorentz Transformation:
 
-Consider $ p=\frac{1}{c_2}$ and let $(t,x)$ and $(t',x')$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and w be the unit complex number $\frac{z}{|z|}$. Then
+Consider $ p=\frac{1}{c_2}$ and let $(t,x)$ and $(t',x')$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and w be the unit complex number $\frac{z}{\|z\|}$. Then
 
 $$(t,x)\cdot w =  (t',x')$$
 
@@ -79,4 +79,4 @@ It is also interesting to note that if p=0, (the case of dual numbers), then w =
 
 $$(t,x)\cdot (1,v) = (t, x+vt )$$
 
-You can find more exciting stuff like trigonometry in various cases (p<0, p=0, p>0) and the generalizations of Euler’s formula in the article. Have fun exploring their properties. If you come to know of any other applications of generalized complex numbers, please do share!
+You can find more exciting stuff like trigonometry in various cases $(p\langle 0, p=0, p\rangle 0)$ and the generalizations of Euler’s formula in the article. Have fun exploring their properties. If you come to know of any other applications of generalized complex numbers, please do share!
