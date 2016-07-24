@@ -14,7 +14,6 @@ date: 2016-05-17T10:19:07+00:00
 
 Have you ever wondered, why is multiplication of complex numbers defined in such a peculiar fashion and can we do it in another way? Can there be other geometrical interpretations for complex numbers? It turns out, these questions are related and lead to the definition of “Generalized Complex Numbers.”
 
-Generalized Complex Numbers:
 
 Here we redefine the multiplication on the set $R\times R$ while preserving certain properties. Addition is defined as before. We desire multiplication to be associative, commutative and distributive. Further we want to satisfy:
 
