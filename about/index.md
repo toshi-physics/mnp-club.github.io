@@ -5,13 +5,13 @@ excerpt: "Maths And Physics Club is"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
   feature: About_img.jpg
-manager1:
-  name: Sandesh Kalantre
-  image: manager1.jpg
-  fblink: https://www.facebook.com/sandesh.kalantre?fref=ts
 manager2:
-  name: Aditi Sharma
+  name: Sandesh Kalantre
   image: manager2.jpg
+  fblink: https://www.facebook.com/sandesh.kalantre?fref=ts
+manager1:
+  name: Aditi Sharma
+  image: manager1.jpg
   fblink: https://www.facebook.com/profile.php?id=100004697207524&fref=ts
 convener1:
   name: Anish Kulkarni
