@@ -35,7 +35,7 @@ It turns out, there are only three different ways (unique up to isomorphism as r
 
 Application of dual numbers:
 
-Here we make a rather strange choice $(0,1)^2 = (0,0)$. As a handy notation let $\epsilon  = (0,1)$. So every dual number is of the form a+ɛb and $\epsilon_2 = 0$. Suppose P(x) is a polynomial over reals. We see that :
+Here we make a rather strange choice $(0,1)^2 = (0,0)$. As a handy notation let $\epsilon  = (0,1)$. So every dual number is of the form a+ɛb and $\epsilon ^2 = 0$. Suppose P(x) is a polynomial over reals. We see that :
 
 $$P(a+b\epsilon) = P(a) + b\epsilon P'(a)$$
 
