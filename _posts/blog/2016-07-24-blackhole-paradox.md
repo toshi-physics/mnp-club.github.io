@@ -38,7 +38,7 @@ In layman terms what we start with is a pure state and a black hole of mass M.  
 In the face of such evolution, quantum mechanics falls apart, and we are faced with a dilemma.  Do black holes really defy the tenets of quantum theory, or have we missed something in our thought experiment.
 Thus, therein lies a paradox!
 
-The Way Ahead
+### The Way Ahead
 1. _Possible Solutions To The Fate of Black Holes_  
 There have been many proposed solutions to the paradox, each equally bewildering as another. They are generally classified first into radical options, which require a quantum theory of gravity which has large deviations from semi-classical physics on macroscopic scales, such as non-locality or endowing horizons with special properties not seen in the semiclassical approximation, and conservative options, which do not need such help. Among the conservative options, it is argued that restoring unitary evolution relies on elimination of singularities.$^{[16]}$  
 2. _Hawking’s leads : Soft Hair on Black Holes_  
