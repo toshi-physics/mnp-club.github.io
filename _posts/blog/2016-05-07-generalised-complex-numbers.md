@@ -52,8 +52,10 @@ Now let us examine a few geometric properties. Define the complex conjugate of $
 
 $$|(x,y)| = sqrt(|x^2 –py^2|)$$
 
+A unit circle is then defined as the set $ (x,y) : |(x,y)| = 1 $. This represents an *ellipse* for $p \langle 0$ (Elliptical number system), a pair of parallel lines for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for  $p\rangle 0$ (Hyperbolic Number system). The argument of a complex number $T(x,y)$ is defined as twice the area of the portion of the unit circle cut out by the ray OT and the real axis, O being the origin (this definition isn’t complete. The attached article gives a fuller account). These definitions give us the beautiful result:
 
-The modulus of the product is the product of the modulus; and the argument of the product is the sum of arguments.
+
+_The modulus of the product is the product of the modulus; and the argument of the product is the sum of arguments._
 
 $$|z1z2| = |z1||z2|$$
 
@@ -63,7 +65,7 @@ Geometrically, this means that multiplication by a generalized complex number is
 
 Application to Special Relativity and Lorentz Transformation:
 
-Consider $ p=\frac{1}{c_2}$ and let $(t,x)$ and $(t',x')$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and w be the unit complex number $\frac{z}{\norm{z}}$. Then
+Consider $ p=\frac{1}{c_2}$ and let $(t,x)$ and $(t',x')$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and w be the unit complex number $\frac{z}{|z|}$. Then
 
 $$(t,x)\cdot w =  (t',x')$$
 
