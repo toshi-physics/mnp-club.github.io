@@ -11,7 +11,7 @@ image:
 {% for post in site.categories.events %} 
 
 
- <div class="row rect" style="background: {% if post.status == 'Finished' %} #fc6f4c {% elsif post.status == 'Nearest'%} #8cff41 {% elsif post.ststus= 'Future'  %}  #e8faff {% endif %}">
+ <div class="row rect" style="background: {% if post.status == 'Finished' %} #516878 {% elsif post.status == 'Nearest'%} #7cbf5b {% elsif post.status == 'Future'  %}  #ffffff {% endif %}">
  <a href="{{ site.url }}{{ post.url }}">
   <div class="col-sm-1"></div>
   <div class="col-sm-2">
@@ -20,7 +20,7 @@ image:
    </div>
   </div>
   <div class="col-sm-9">
-   <p class="event"> {{post.title}}  </p>
+   <p class="event"> {{post.pseudo_title}}  </p>
   </div>
   </a>
  </div>
