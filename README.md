@@ -6,7 +6,7 @@ The Maths and Physics Club is a community to celebrate the sciences we revere in
 We at MnP believe in building a community, and an integral part of an interactive community is contributing. If you have an interesting topic that you would like to share to the world, through our page, or if you come across something exciting and new, we would love to host your post. Follow the steps to get your post up!
 
   * Make sure you have git on your system, and a Github account; if not, you can create one for free now!    
-  * It is recommended that you have *jekyll* on your system, to see how your post would look, if published. Follow this [simple guide fr Ubuntu](http://sharadchhetri.com/2014/06/30/install-jekyll-on-ubuntu-14-04-lts/), or the [official docs](https://jekyllrb.com/docs/installation/) if you don't have it yet._(You can continue in the absence of Jekyll as well!)_  
+  * It is recommended that you have *jekyll* on your system, to see how your post would look, if published. Follow this [simple guide for Ubuntu](http://sharadchhetri.com/2014/06/30/install-jekyll-on-ubuntu-14-04-lts/), or the [official docs](https://jekyllrb.com/docs/installation/) if you don't have it yet._(You can continue in the absence of Jekyll as well!)_  
   * You can use any text editor to create your post, but a sophisticated editor like [Atom](https://atom.io/), which supports markdown rendering, for convenience.  
 
 Once you have the above packages, you can now create your own post! Just a few more steps!
@@ -24,7 +24,7 @@ Once you have the above packages, you can now create your own post! Just a few m
   4. If you used _octopress_, then your file will have a header file containing simple details and some blanks. If not, the file would be a blank file as of now. Further, open any other file in the folder, and copy the header file in the same way, and update the details. The author would be your username that you used when creating avatar. You can further add relevant tags to your post.
 
   5. After the **---** line, you can write your post (note that you do not need to add a title here). The blog supports markdown, and hence you can format your post using standard `html` tags, or use `markdown`. If you are new to markdown, you can refer to [this concise guide](https://daringfireball.net/projects/markdown/syntax). You can add plain text, formatting, hyperlinks and images with markdown too!
-    * If you want to use LaTeX in the Math Mode, you can do so by enclosing the code in $ ... $ for inline LaTeX, and $$ ... $$$ for the standard new line centred format.
+    * If you want to use LaTeX in the Math Mode, you can do so by enclosing the code in $ ... $ for inline LaTeX, and $$ ... $$ for the standard new line centred format.
     * If you wish to embed YouTube videos, instead of links, you can follow these simple steps!
       - Open the video on YouTube.
       - Scroll down to find the _Share_ option, and navigate to the _Embed_ tab.
