@@ -4,6 +4,14 @@
     {
       "title"			: "BAZINGA Maths!!!",
       "link"			: "http://localhost:4000/events/bazinga-maths/",
+      "excerpt"		: "Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and paradox resolution questions to deep thought problems. While the solutions are based on elementary concepts, they’re sure to test your creativity and challenge your reasoning skills!"
+    }
+  
+
+  
+    ,{
+      "title"			: "BAZINGA Maths!!!",
+      "link"			: "http://localhost:4000/events/bazing-maths/",
       "excerpt"		: "Venue : To be decided"
     }
   
@@ -13,6 +21,14 @@
       "title"			: "BAZINGA Physics !!!",
       "link"			: "http://localhost:4000/events/bazinga-physics/",
       "excerpt"		: "Bazinga Physics is a 4 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics."
+    }
+  
+
+  
+    ,{
+      "title"			: "BAZINGA Physics !!!",
+      "link"			: "http://localhost:4000/events/bazing-physics/",
+      "excerpt"		: "Bazinga Physics is a 4 round quiz (including preliminary or elimination round) where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics."
     }
   
 

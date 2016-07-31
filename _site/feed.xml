@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2016-07-25T00:20:09+00:00</updated>
+<updated>2016-07-31T23:46:12+00:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Maths And Physics Club</name>
@@ -25,7 +25,9 @@
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
-    &lt;h2 id=&quot;venue--to-be-decided&quot;&gt;Venue : To be decided&lt;/h2&gt;
+    &lt;p&gt;Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and paradox resolution questions to deep thought problems. While the solutions are based on elementary concepts, they’re sure to test your creativity and challenge your reasoning skills!&lt;/p&gt;
+
+&lt;h2 id=&quot;venue--to-be-decided&quot;&gt;Venue : To be decided&lt;/h2&gt;
 
 &lt;h2 id=&quot;date-11th-august&quot;&gt;Date: 11th August&lt;/h2&gt;
 
@@ -34,6 +36,31 @@
 &lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://localhost:4000/events/bazinga-maths/&quot;&gt;BAZINGA Maths!!!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://localhost:4000&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[BAZINGA Maths!!!]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/events/bazing-maths/" />
+  <id>http://localhost:4000/events/bazing-maths</id>
+  <published>2016-08-11T23:18:04+00:00</published>
+  <updated>2016-08-11T23:18:04+00:00</updated>
+  <author>
+    <name>Maths And Physics Club</name>
+    <uri>http://localhost:4000</uri>
+    <email>mnp-club-iitb@googlegroups.com</email>
+  </author>
+  <content type="html">
+    &lt;h2 id=&quot;venue--to-be-decided&quot;&gt;Venue : To be decided&lt;/h2&gt;
+
+&lt;h2 id=&quot;date-11th-august&quot;&gt;Date: 11th August&lt;/h2&gt;
+
+&lt;h2 id=&quot;day-thursday&quot;&gt;Day: Thursday&lt;/h2&gt;
+
+&lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/events/bazing-maths/&quot;&gt;BAZINGA Maths!!!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://localhost:4000&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -61,6 +88,33 @@
 &lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://localhost:4000/events/bazinga-physics/&quot;&gt;BAZINGA Physics !!!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://localhost:4000&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 10, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[BAZINGA Physics !!!]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/events/bazing-physics/" />
+  <id>http://localhost:4000/events/bazing-physics</id>
+  <published>2016-08-10T23:17:54+00:00</published>
+  <updated>2016-08-10T23:17:54+00:00</updated>
+  <author>
+    <name>Maths And Physics Club</name>
+    <uri>http://localhost:4000</uri>
+    <email>mnp-club-iitb@googlegroups.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;Bazinga Physics is a 4 round quiz (including preliminary or elimination round) where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics.&lt;/p&gt;
+
+&lt;h2 id=&quot;venue--to-be-decided&quot;&gt;Venue : To be decided&lt;/h2&gt;
+
+&lt;h2 id=&quot;date-10th-august&quot;&gt;Date: 10th August&lt;/h2&gt;
+
+&lt;h2 id=&quot;day-wednesday&quot;&gt;Day: Wednesday&lt;/h2&gt;
+
+&lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/events/bazing-physics/&quot;&gt;BAZINGA Physics !!!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://localhost:4000&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 10, 2016.&lt;/p&gt;
   </content>
 </entry>
 
