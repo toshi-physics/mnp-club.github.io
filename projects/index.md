@@ -13,7 +13,6 @@ image:
 {% endfor %}
 </ul>
 -->
-Hello!
 <style>
 table {
     border-collapse: collapse;
