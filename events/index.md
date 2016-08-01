@@ -15,10 +15,10 @@ image:
  <a href="{{ site.url }}{{ post.url }}">
   <div class="col-sm-1 col-xs-1"></div>
   <div class="col-sm-2 col-xs-2">
-   <div class="date">
+<div class="date"> 
    	<p>{{ post.day }}<span>{{ post.month }}</span></p>
    </div>
-  </div>
+  </div> 
   <div class="col-sm-9 col-xs-9">
    <p class="event"> {{post.pseudo_title}}  </p>
   </div>
