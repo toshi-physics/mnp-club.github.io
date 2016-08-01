@@ -39,4 +39,8 @@ tr:nth-child(even) {
         You can find the abstract, documentation and other links <a href="https://drive.google.com/folderview?id=0B1Vk8narhavEWE5pUm5UdE9DYTg&usp=sharing" target="_blank"><u>here!</u></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%"><iframe width="420" height="315" src="https://www.youtube.com/embed/FGJicp3HbBo" frameborder="0" allowfullscreen></iframe>
+    <td><b> Cymatics</b><br>
+We have all drawn waves and <i>heard</i> sound. This project aims to visualise waves in various forms - on the surface of corn syrup, water stream, and the show stopper - <i>The Ruben's Tube!</i>!
 </table>
