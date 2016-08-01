@@ -3,39 +3,23 @@
   
     {
       "title"			: "BAZINGA Maths!!!",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/",
+      "link"			: "http://localhost:4000/events/bazinga-maths/",
       "excerpt"		: "Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and paradox resolution questions to deep thought problems. While the solutions are based on elementary concepts, they’re sure to test your creativity and challenge your reasoning skills!"
     }
   
 
   
     ,{
-      "title"			: "BAZINGA Maths!!!",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/events/bazing-maths/",
-      "excerpt"		: "Venue : To be decided"
-    }
-  
-
-  
-    ,{
       "title"			: "BAZINGA Physics !!!",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/",
+      "link"			: "http://localhost:4000/events/bazinga-physics/",
       "excerpt"		: "Bazinga Physics is a 4 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics."
     }
   
 
   
     ,{
-      "title"			: "BAZINGA Physics !!!",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/events/bazing-physics/",
-      "excerpt"		: "Bazinga Physics is a 4 round quiz (including preliminary or elimination round) where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics."
-    }
-  
-
-  
-    ,{
       "title"			: "STAB Orientation For The Freshmen",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/events/stab-orientation/",
+      "link"			: "http://localhost:4000/events/stab-orientation/",
       "excerpt"		: "Orientation for the Freshman on the activities, culture, enthusiasm and achievements of the TECH society in IIT Bombay."
     }
   
@@ -43,7 +27,7 @@
   
     ,{
       "title"			: "Summer Of Science (SOS) Project Presentation",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/events/sos-meetup/",
+      "link"			: "http://localhost:4000/events/sos-meetup/",
       "excerpt"		: "Informal Presentation of the Projects done by IIT Bombay students who took up Summer of Science Projects during the summer."
     }
   
@@ -51,7 +35,7 @@
   
     ,{
       "title"			: "Blackhole Information Paradox",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox/",
+      "link"			: "http://localhost:4000/blog/blackhole-paradox/",
       "excerpt"		: "Does the baffle still remain?"
     }
   
@@ -59,7 +43,7 @@
   
     ,{
       "title"			: "Brain's Positioning System",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/",
+      "link"			: "http://localhost:4000/blog/brain-positioning/",
       "excerpt"		: "Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century.Like the GPS in our phones and cars, our brain has a sophisticated positioning system. The brain integrates sensory data and knowledge of our current position to judge where we are headed. Only when we are lost or suffer from neurodegenerative diseases do we realise how critical our positioning system is to our survival."
     }
   
@@ -67,7 +51,7 @@
   
     ,{
       "title"			: "Memristors and the Future of Computing",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/blog/memristors/",
+      "link"			: "http://localhost:4000/blog/memristors/",
       "excerpt"		: "In 1965, Gordon Moore predicted that the number of transistors in a dense integrated circuit doubles approximately every two years, and since then every manufacturer has been fighting hard to keep up with the Moore’s Law. With the scale of transistor entering sub-20nm, this number is saturating and Moore’s Law has begun to fail us. So what have the scientists and researchers got us? Behold the  Memristor  (a portmanteau of the words memory and resistor)!"
     }
   
@@ -75,7 +59,7 @@
   
     ,{
       "title"			: "Generalized Complex Numbers",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/blog/generalised-complex-numbers/",
+      "link"			: "http://localhost:4000/blog/generalised-complex-numbers/",
       "excerpt"		: "Have you ever wondered, why is multiplication of complex numbers defined in such a peculiar fashion and can we do it in another way? Can there be other geometrical interpretations for complex numbers? It turns out, these questions are related and lead to the definition of “Generalized Complex Numbers.”"
     }
   
@@ -83,7 +67,7 @@
   
     ,{
       "title"			: "Flexagons",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/blog/flexagons/",
+      "link"			: "http://localhost:4000/blog/flexagons/",
       "excerpt"		: "Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”."
     }
   
@@ -105,7 +89,7 @@
   
     ,{
       "title"			: "About us",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/about/",
+      "link"			: "http://localhost:4000/about/",
       "excerpt"		: "Maths And Physics Club is"
     }
   

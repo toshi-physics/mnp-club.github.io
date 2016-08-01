@@ -320,22 +320,22 @@ Events Tab
 height: 13vmin;
 border: 0.8vmin solid #e2e2e2;
 margin: 3.5vmin 0 3vmin 0;
-padding: 8px;
+padding: 2vmin;
 border-radius: 3.5vmin;
 
 }
 
 .date {
         
-	width: 13vmin; height: 8vmin; 
+	width: 13vmin; height: 8.5vmin; 
 	background: #fcfcfc; 
 	border: 0.12vmin solid #d2d2d2;
 	border-radius: 0.9vmin;
 	-moz-border-radius: 0.9vmin;
 	-webkit-border-radius: 0.9vmin;
-	box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
-	-moz-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
-	-webkit-box-shadow: 0px 0px 15px rgba(0,0,0,0.1);
+	box-shadow: 0vmin 0vmin 2.5vmin rgba(0,0,0,0.1);
+	-moz-box-shadow: 0vmin 0vmin 2.5vmin rgba(0,0,0,0.1);
+	-webkit-box-shadow: 0vmin 0vmin 2.5vmin rgba(0,0,0,0.1);
 	
 	
 }
@@ -350,21 +350,21 @@ border-radius: 3.5vmin;
 	background: #0b1423;
 	font-size: 2.5vmin ; font-weight: bold; color: #fff; text-transform: uppercase; 	
 	display: block;
-	border-top: 0.5vmin solid #2a4c83;
+	border-top: 0.75vmin solid #2a4c83;
 	border-radius: 0 0 1.5vmin 1.5vmin;
 	-moz-border-radius: 0 0 1.5vmin 1.5vmin;
 	-webkit-border-radius: 0 0 1.5vmin 1.5vmin;
 	padding: 0.5vmin 0 0.5vmin 0;
-	box-shadow: 0px 10px 15px rgba(0,0,0,0.35);
-	-moz-box-shadow: 0px 10px 15px rgba(0,0,0,0.35);
-	-webkit-box-shadow: 0px 10px 15px rgba(0,0,0,0.35);
+	box-shadow: 0vmin 1.5vmin 2.5vmin rgba(0,0,0,0.35);
+	-moz-box-shadow: 0vmin 1.5vmin 2.5vmin rgba(0,0,0,0.35);
+	-webkit-box-shadow: 0px 1.5vmin 2.5vmin rgba(0,0,0,0.35);
 }
 
 .event {
         font-family: $alt-font;
         font-style: italic;
         /*font-family: 'Lora', serif;*/
-        font-size: 5.2vmin;
+        font-size: 5vmin;
         text-align: center;
 
 }
