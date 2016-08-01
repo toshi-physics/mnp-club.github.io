@@ -40,6 +40,12 @@ tr:nth-child(even) {
     </td>
   </tr>
   <tr>
+    <td><a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><img src="http://masterblogster.com/wp-content/uploads/2013/08/Google-Page-Rank-Prediction-Tools.png"></a>
+    <td> <b>Google's PageRank Algorithm</b><br>
+    Ever wondered how search engines work, and what goes behind it providing the correct results almost every time? <b>Pulkit Sareen</b> explores Google's PageRank algorithm and how it works! You can find a detailed report on his findings <a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><u> here. </u></a>
+  </tr>
+
+  <tr>
     <td width="50%"><iframe width="420" height="315" src="https://www.youtube.com/embed/FGJicp3HbBo" frameborder="0" allowfullscreen></iframe>
     <td><b> Cymatics</b><br>
 We have all drawn waves and <i>heard</i> sound. This project aims to visualise waves in various forms - on the surface of corn syrup, water stream, and the show stopper - <i>The Ruben's Tube!</i>!
