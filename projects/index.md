@@ -13,7 +13,7 @@ image:
 {% endfor %}
 </ul>
 -->
-Hello!
+
 <style>
 table {
     border-collapse: collapse;
@@ -34,7 +34,7 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <td><iframe width="150" height="300" src="https://www.youtube.com/embed/ibvvcEx5UDU" frameborder="0" allowfullscreen></iframe></th>
+    <td><iframe width="500" height="300" src="https://www.youtube.com/embed/ibvvcEx5UDU" frameborder="0" allowfullscreen></iframe></th>
     <td>Contact</th>
   </tr>
 </table>
