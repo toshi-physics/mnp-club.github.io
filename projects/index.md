@@ -47,14 +47,35 @@ tr:nth-child(even) {
   <tr>
     <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiERDl0SHdBWlh5Qmc" target="_blank"><img src="http://hd.wallpaperswide.com/thumbs/processors-t2.jpg"></a>
     <td><b>Computer Architecture - SoS 2016</b><br>
-    We use microprocessors in different forms for our daily necessities. But what goes inside such a processor? How does one achive such complex purposes when all we start with is a chuck of Silicon! <b>Dhruv Shah</b> explores how processors are built from the basics of digital electronics and how the complex systems fit in their places. A detailed report of his findings can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiERDl0SHdBWlh5Qmc" target="_blank"><i>here!</i></a>
+    We use microprocessors in different forms for our daily necessities. But what goes inside such a processor? <b>Dhruv Shah</b> explores how processors are built from the basics of digital electronics and how the complex systems fit in their places. A detailed report of his findings can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiERDl0SHdBWlh5Qmc" target="_blank"><i>here!</i></a>
 
   </tr>
+  <tr>
+    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEU2toOW9qNnRJQ0k" target="_blank"><img src="http://astrosociety.org/wp-content/uploads/2012/10/1-CMB_Timeline300_no_WMAP.jpg"></a>
+    <td><b>Cosmology - SoS 2016</b><br>
+
+    <a href="https://drive.google.com/open?id=0BzrafcdwRhiEU2toOW9qNnRJQ0k" target="_blank"><i>here!</i></a>
+  </tr>
+
+
+
   <tr>
     <td width="50%"><a href="https://drive.google.com/open?id=0BzrafcdwRhiEWTNmSHpBSXJvMms" target="_blank"><img src="https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/64016/width668/7b78hn6j-1415411911.png"></a>
     </td>
     <td><b>Algebraic Techniques in Geometry - SoS 2016</b><br>
     The mathematics of origami and polyhedral shapes has always been interesting and the underlying geometry uses concepts deeply rooted in abstract algebra and group theory etc. <b>Abhijeet Melkani</b> explores various ways to explain and unfold the mysteries of polyhedral geometry! You can find a report of his learnings <a href="https://drive.google.com/open?id=0BzrafcdwRhiEWTNmSHpBSXJvMms" target="_blank"><i>here!</i>
+  </tr>
+
+  <tr>
+    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEQ3B4VjN3dXprWkk" target="_blank"><img src="https://www.wired.com/images_blogs/wiredscience/2013/08/d-wave011.jpg"></a>
+    <td><b>Quantum Computation - SoS 2016</b><br>
+  </tr>
+
+
+  <tr>
+    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk" target="_blank"><img src="http://www.physics.drexel.edu/~vogeley/SpecialRel/einstein.jpg"></a>
+    <td><b>Special Theory of Relativity - SoS 2016</b><br>
+
   </tr>
 
   <tr>
