@@ -1,6 +1,6 @@
 ---
 layout: post
-pseudo_title: SOS Project Presentation
+pseudo_title: SOS Project Meetup
 title: Summer Of Science (SOS) Project Presentation
 modified:
 categories: events

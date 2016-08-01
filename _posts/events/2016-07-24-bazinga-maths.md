@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BAZINGA Maths!!!
+title: BAZINGA Maths
 pseudo_title: Bazinga Maths
 modified:
 categories: events

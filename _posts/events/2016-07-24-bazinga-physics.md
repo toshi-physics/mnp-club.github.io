@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BAZINGA Physics !!!
+title: BAZINGA Physics 
 pseudo_title: Bazinga Physics
 modified:
 categories: events
@@ -14,7 +14,7 @@ month: AUG
 status: Future
 ---
 
-Bazinga Physics is a 4 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics. 
+Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics. 
 
 
 ##Venue : To be decided
