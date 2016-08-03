@@ -9,9 +9,9 @@ tags: []
 image:
   feature:
 date: 2016-07-28T23:17:02+00:00
-day: 28
-month: Jul
-status: Nearest 
+day: 3
+month: Aug
+status: Finished 
 ---
 Informal Presentation of the Projects done by IIT Bombay students who took up Summer of Science Projects during the summer.
 
