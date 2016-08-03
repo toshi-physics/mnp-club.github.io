@@ -4,7 +4,7 @@ title: Events
 excerpt: ""
 search_omit: true
 image:
-  feature: About_img.jpg
+  feature: About_img.png
 ---
 
 

@@ -4,7 +4,7 @@ title: Projects
 excerpt: "An archive of projects done ."
 search_omit: true
 image:
-  feature: About_img.jpg
+  feature: About_img.png
 ---
 <!--
 <ul class="post-list">
