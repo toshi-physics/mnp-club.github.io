@@ -6,7 +6,7 @@
   text-align: center;
   @include clearfix;
   ul {
-    display: fixed;
+    display: fixed-block;
     width: 100%;
     vertical-align: top;
     margin: 0 0 50px;
