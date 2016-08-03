@@ -11,6 +11,8 @@ image:
   feature:
 date: 2016-05-31T10:19:07+00:00
 ---
+Welcome the days of a new kind of electronic device.. All hail the memristor, a device that could revolutionarise the world of computing by implementing wonderful technology!
+
 
 In 1965, Gordon Moore predicted that the number of transistors in a dense integrated circuit doubles approximately every two years, and since then every manufacturer has been fighting hard to keep up with the Moore's Law. With the scale of transistor entering sub-20nm, this number is saturating and Moore's Law has begun to fail us. So what have the scientists and researchers got us? Behold the <i> <b>Memristor</b>  (a portmanteau of the words memory and resistor)!</i>
 

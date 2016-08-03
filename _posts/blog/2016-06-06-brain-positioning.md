@@ -13,7 +13,9 @@ comments: true
 ---
 
 ## Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century.
-  
+
+
+
 Like the GPS in our phones and cars, our brain has a sophisticated positioning system. The brain integrates sensory data and knowledge of our current position to judge where we are headed. Only when we are lost or suffer from neurodegenerative diseases do we realise how critical our positioning system is to our survival.
 
 The tracking and positioning systems of the mammalian brain was being studied for a long time. For example, the simple roundworm (Caenorhabditis elegans), with just 302 neurons, finds its way around solely by olfactory signals. It follows the path of an increasing or decreasing odour gradient. Honeybees, on the other hand, calculate its position by integrating its direction and speed of movement, without keeping track of landmarks or external cues. Vertebrates have even more sophisticated positioning systems.
@@ -39,4 +41,3 @@ It was observed that the place cells in the hippocampus rapidly assumes a new lo
 It is now believed that the hippocampus stores not just the position, but also the events that occur at that particular place. Particulars about an event are fused with the coordinates and are laid down in the animal’s memory.
 
 <b>However, the scientific world is still pretty much in the dark as to how this information is used by the rest of the brain’s systems or the evolutionary origins of this intricate mechanism. The location systems of the brain and the mechanisms of memory formation will undoubtedly be a fascinating area of research for many years to come.</b>
-
