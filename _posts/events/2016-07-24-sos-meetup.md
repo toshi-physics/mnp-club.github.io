@@ -9,7 +9,7 @@ tags: []
 image:
   feature:
 date: 2016-07-28T23:17:02+00:00
-day: 3
+day: 2
 month: Aug
 status: Finished 
 ---
