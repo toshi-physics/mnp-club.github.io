@@ -68,7 +68,7 @@ tr:nth-child(even) {
   <tr>
     <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEQ3B4VjN3dXprWkk" target="_blank"><img src="https://www.wired.com/images_blogs/wiredscience/2013/08/d-wave011.jpg"></a>
     <td><b>Quantum Computation - SoS 2016</b><br>
-    <td>Recent advancements in the world of spintronics have opened up a new field of research on the boundaries of Physics and Computer Science. Can we achieve the dream of a Quantum Computer? <b>Sanket Chirame</b> studies the basics of Quantum logic and all that goes in, to establish the concept of a Quantum Computer. You can find a report of his learnings <a href="https://drive.google.com/open?id=0BzrafcdwRhiEQ3B4VjN3dXprWkk" target="_blank"><i>here!</i>
+    Recent advancements in the world of spintronics have opened up a new field of research on the boundaries of Physics and Computer Science. Can we achieve the dream of a Quantum Computer? <b>Sanket Chirame</b> studies the basics of Quantum logic and all that goes in, to establish the concept of a Quantum Computer. You can find a report of his learnings <a href="https://drive.google.com/open?id=0BzrafcdwRhiEQ3B4VjN3dXprWkk" target="_blank"><i>here!</i>
   </tr>
 
 
@@ -76,7 +76,7 @@ tr:nth-child(even) {
     <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk
     " target="_blank"><img src="http://www.physics.drexel.edu/~vogeley/SpecialRel/einstein.jpg"></a>
     <td><b>Special Theory of Relativity - SoS 2016</b><br>
-    <td> Special relativity implies a wide range of consequences, which have been experimentally verified,[2] including length contraction, time dilation, relativistic mass, mass–energy equivalence, a universal speed limit and relativity of simultaneity. It has replaced the conventional notion of an absolute universal time with the notion of a time that is dependent on reference frame and spatial position. <b>Rittick Roy</b> explored this exciting field of science in his report, which can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk
+    Special relativity has replaced the conventional notion of an absolute universal time with the notion of a time that is dependent on reference frame and spatial position. <b>Rittick Roy</b> explored this exciting field of science in his report, which can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk
     " target="_blank"><i>here!</i>
   </tr>
 
