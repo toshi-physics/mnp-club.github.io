@@ -4,7 +4,7 @@ title: About us
 excerpt: "Maths And Physics Club is"
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: About_img.jpg
+  feature: About_img.png
 manager2:
   name: Sandesh Kalantre
   image: manager2.jpg
