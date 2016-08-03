@@ -40,7 +40,7 @@ tr:nth-child(even) {
     </td>
   </tr>
   <tr>
-    <td><a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><img src="http://masterblogster.com/wp-content/uploads/2013/08/Google-Page-Rank-Prediction-Tools.png"></a>
+    <td width="50%"><a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><img src="http://masterblogster.com/wp-content/uploads/2013/08/Google-Page-Rank-Prediction-Tools.png"></a>
     <td> <b>Google's PageRank Algorithm - ITSP 2016</b><br>
     Ever wondered how search engines work, and what goes behind it providing the correct results almost every time? <b>Pulkit Sareen</b> explores Google's PageRank algorithm and how it works! You can find a detailed report on his findings <a href="https://drive.google.com/open?id=0BzrafcdwRhiEa3F0bXBFOXJlY1U" target="_blank"><i> here. </i></a>
   </tr>
@@ -73,9 +73,11 @@ tr:nth-child(even) {
 
 
   <tr>
-    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk" target="_blank"><img src="http://www.physics.drexel.edu/~vogeley/SpecialRel/einstein.jpg"></a>
+    <td width="50%"><a href= "https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk
+    " target="_blank"><img src="http://www.physics.drexel.edu/~vogeley/SpecialRel/einstein.jpg"></a>
     <td><b>Special Theory of Relativity - SoS 2016</b><br>
-    <td> Special relativity implies a wide range of consequences, which have been experimentally verified,[2] including length contraction, time dilation, relativistic mass, mass–energy equivalence, a universal speed limit and relativity of simultaneity. It has replaced the conventional notion of an absolute universal time with the notion of a time that is dependent on reference frame and spatial position. <b>Rittick Roy</b> explored this exciting field of science in his report, which can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk" target="_blank"><i>here!</i>
+    <td> Special relativity implies a wide range of consequences, which have been experimentally verified,[2] including length contraction, time dilation, relativistic mass, mass–energy equivalence, a universal speed limit and relativity of simultaneity. It has replaced the conventional notion of an absolute universal time with the notion of a time that is dependent on reference frame and spatial position. <b>Rittick Roy</b> explored this exciting field of science in his report, which can be found <a href="https://drive.google.com/open?id=0BzrafcdwRhiEbWRHUGFFZlhUeFk
+    " target="_blank"><i>here!</i>
   </tr>
 
   <tr>
