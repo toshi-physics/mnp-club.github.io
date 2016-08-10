@@ -1,6 +1,6 @@
 ---
 layout: event
-title: BAZINGA Maths
+title: Bazinga! Maths
 pseudo_title: Bazinga Maths
 modified:
 categories: events
@@ -16,10 +16,10 @@ status: Future
 
 Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and paradox resolution questions to deep thought problems. While the solutions are based on elementary concepts, they're sure to test your creativity and challenge your reasoning skills!
 
-##Venue : To be decided
+###Venue : LH101
 
-##Date: 11th August
+###Date: 11th August
 
-##Day: Thursday
+###Day: Thursday
 
-##Time: 9:00 pm
+###Time: 9:00 pm
