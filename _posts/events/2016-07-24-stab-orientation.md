@@ -11,7 +11,7 @@ image:
 date: 2016-08-03T23:17:25+00:00
 day: 3
 month: AUG
-status: Nearest
+status: Finished
 ---
 Orientation for the Freshman on the activities, culture, enthusiasm and achievements of the TECH society in IIT Bombay.
 

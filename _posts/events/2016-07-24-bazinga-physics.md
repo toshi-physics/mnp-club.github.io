@@ -11,13 +11,17 @@ image:
 date: 2016-08-10T23:17:54+00:00
 day: 10
 month: AUG
-status: Future
+status: Nearest
 ---
 
 Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics. 
 
 
+<<<<<<< HEAD
 ###Venue : LH101
+=======
+##Venue : LH 101
+>>>>>>> 16a40fa8a17402c7f9078b0c7c22520d1e8d80f1
 
 ###Date: 10th August
 
