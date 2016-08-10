@@ -17,11 +17,7 @@ status: Nearest
 Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics. 
 
 
-<<<<<<< HEAD
-###Venue : LH101
-=======
-##Venue : LH 101
->>>>>>> 16a40fa8a17402c7f9078b0c7c22520d1e8d80f1
+###Venue : LH 101
 
 ###Date: 10th August
 
@@ -48,16 +44,18 @@ tr:nth-child(even) {
 
 ***Bazinga! 2016 Prelims start at 9:00PM. Stay posted for results.***
 
-	Freshmen:
+**Freshmen:**
+
 <table>
 	<tr>
-		<td width="80%"> Player 1
-		<td> Score 
+		<td width="80%"> Player 1 </td>
+		<td> Score </td>
 </table>
+
 
 Seniors:
 <table>
 	<tr>
-		<td width="80%"> Player 1
-		<td> Score 
+		<td width="80%"> Player 1</td>
+		<td> Score </td>
 </table>
