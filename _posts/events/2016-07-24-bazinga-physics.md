@@ -44,6 +44,7 @@ tr:nth-child(even) {
 
 ***Bazinga! 2016 Prelims start at 9:00PM. Stay posted for results.***
 
+<!--
 **Finalists 2016!**
 
 <table>
@@ -53,3 +54,4 @@ tr:nth-child(even) {
 		<td width="33%"> Player 3 </td>
 </table>
 
+-->
