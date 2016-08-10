@@ -44,18 +44,12 @@ tr:nth-child(even) {
 
 ***Bazinga! 2016 Prelims start at 9:00PM. Stay posted for results.***
 
-**Freshmen:**
+<u>**Finalists 2016!**</u>
 
 <table>
 	<tr>
-		<td width="80%"> Player 1 </td>
-		<td> Score </td>
+		<td width="33%"> Player 1 </td>
+		<td width="33%"> Player 2 </td>
+		<td width="33%"> Player 3 </td>
 </table>
 
-
-Seniors:
-<table>
-	<tr>
-		<td width="80%"> Player 1</td>
-		<td> Score </td>
-</table>

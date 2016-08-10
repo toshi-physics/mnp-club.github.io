@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://stab-iitb.org/math-and-physics-club/feed.xml" />
 <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club" />
-<updated>2016-08-03T00:02:51+00:00</updated>
+<updated>2016-08-10T19:19:59+05:30</updated>
 <id>https://stab-iitb.org/math-and-physics-club/</id>
 <author>
   <name>Maths And Physics Club</name>
@@ -14,11 +14,11 @@
 
 
 <entry>
-  <title type="html"><![CDATA[BAZINGA Maths]]></title>
+  <title type="html"><![CDATA[Bazinga! Maths]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/bazinga-maths</id>
-  <published>2016-08-11T23:18:04+00:00</published>
-  <updated>2016-08-11T23:18:04+00:00</updated>
+  <published>2016-08-12T04:48:04+05:30</published>
+  <updated>2016-08-12T04:48:04+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -27,25 +27,25 @@
   <content type="html">
     &lt;p&gt;Bazinga Maths is a quiz where teams compete to solve an assortment of problems from buzzer round and paradox resolution questions to deep thought problems. While the solutions are based on elementary concepts, they’re sure to test your creativity and challenge your reasoning skills!&lt;/p&gt;
 
-&lt;h2 id=&quot;venue--to-be-decided&quot;&gt;Venue : To be decided&lt;/h2&gt;
+&lt;h3 id=&quot;venue--lh-101&quot;&gt;Venue : LH 101&lt;/h3&gt;
 
-&lt;h2 id=&quot;date-11th-august&quot;&gt;Date: 11th August&lt;/h2&gt;
+&lt;h3 id=&quot;date-11th-august&quot;&gt;Date: 11th August&lt;/h3&gt;
 
-&lt;h2 id=&quot;day-thursday&quot;&gt;Day: Thursday&lt;/h2&gt;
+&lt;h3 id=&quot;day-thursday&quot;&gt;Day: Thursday&lt;/h3&gt;
 
-&lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
+&lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/&quot;&gt;BAZINGA Maths&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/&quot;&gt;Bazinga! Maths&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 12, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[BAZINGA Physics]]></title>
+  <title type="html"><![CDATA[Bazinga! Physics]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/bazinga-physics</id>
-  <published>2016-08-10T23:17:54+00:00</published>
-  <updated>2016-08-10T23:17:54+00:00</updated>
+  <published>2016-08-11T04:47:54+05:30</published>
+  <updated>2016-08-11T04:47:54+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -54,15 +54,45 @@
   <content type="html">
     &lt;p&gt;Bazinga Physics is a 3 round quiz where the participant have to rack their brains and use simple intuitive physics concept to solve questions. The questions can be explaining a simple everyday phenomenon to solving some mind-bending thought experiment. Join in and lets enjoy the true essence of physics.&lt;/p&gt;
 
-&lt;h2 id=&quot;venue--to-be-decided&quot;&gt;Venue : To be decided&lt;/h2&gt;
+&lt;h3 id=&quot;venue--lh-101&quot;&gt;Venue : LH 101&lt;/h3&gt;
 
-&lt;h2 id=&quot;date-10th-august&quot;&gt;Date: 10th August&lt;/h2&gt;
+&lt;h3 id=&quot;date-10th-august&quot;&gt;Date: 10th August&lt;/h3&gt;
 
-&lt;h2 id=&quot;day-wednesday&quot;&gt;Day: Wednesday&lt;/h2&gt;
+&lt;h3 id=&quot;day-wednesday&quot;&gt;Day: Wednesday&lt;/h3&gt;
 
-&lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
+&lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/&quot;&gt;BAZINGA Physics&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 10, 2016.&lt;/p&gt;
+&lt;style&gt;
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+&lt;/style&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bazinga! 2016 Prelims start at 9:00PM. Stay posted for results.&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;u&gt;**Finalists 2016!**&lt;/u&gt;&lt;/p&gt;
+
+&lt;table&gt;
+	&lt;tr&gt;
+		&lt;td width=&quot;33%&quot;&gt; Player 1 &lt;/td&gt;
+		&lt;td width=&quot;33%&quot;&gt; Player 2 &lt;/td&gt;
+		&lt;td width=&quot;33%&quot;&gt; Player 3 &lt;/td&gt;
+
+
+&lt;/tr&gt;&lt;/table&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/&quot;&gt;Bazinga! Physics&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -71,8 +101,8 @@
   <title type="html"><![CDATA[STAB Orientation For The Freshmen]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/stab-orientation/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/stab-orientation</id>
-  <published>2016-08-03T23:17:25+00:00</published>
-  <updated>2016-08-03T23:17:25+00:00</updated>
+  <published>2016-08-04T04:47:25+05:30</published>
+  <updated>2016-08-04T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -90,7 +120,7 @@
 &lt;h2 id=&quot;time-500-pm&quot;&gt;Time: 5:00 pm&lt;/h2&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/stab-orientation/&quot;&gt;STAB Orientation For The Freshmen&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 03, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/stab-orientation/&quot;&gt;STAB Orientation For The Freshmen&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -99,8 +129,8 @@
   <title type="html"><![CDATA[Summer Of Science (SOS) Project Presentation]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/sos-meetup/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/sos-meetup</id>
-  <published>2016-07-28T23:17:02+00:00</published>
-  <updated>2016-07-28T23:17:02+00:00</updated>
+  <published>2016-07-29T04:47:02+05:30</published>
+  <updated>2016-07-29T04:47:02+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -117,7 +147,7 @@
 
 &lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/sos-meetup/&quot;&gt;Summer Of Science (SOS) Project Presentation&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 28, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/sos-meetup/&quot;&gt;Summer Of Science (SOS) Project Presentation&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 29, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -126,8 +156,8 @@
   <title type="html"><![CDATA[Blackhole Information Paradox]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox</id>
-  <published>2016-07-24T10:19:07+00:00</published>
-  <updated>2016-07-24T10:19:07+00:00</updated>
+  <published>2016-07-24T15:49:07+05:30</published>
+  <updated>2016-07-24T15:49:07+05:30</updated>
   <author>
     <name>Toshi Parmar</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -205,8 +235,8 @@ A year later, L. Susskind published a paper, ‘The World as A Hologram’$^{[19
   <title type="html"><![CDATA[Brain's Positioning System]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/brain-positioning</id>
-  <published>2016-06-06T00:01:22+00:00</published>
-  <updated>2016-06-06T00:01:22+00:00</updated>
+  <published>2016-06-06T05:31:22+05:30</published>
+  <updated>2016-06-06T05:31:22+05:30</updated>
   <author>
     <name>Thariq Shanavas</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -243,7 +273,6 @@ It is now believed that the hippocampus stores not just the position, but also t
 
 &lt;p&gt;&lt;b&gt;However, the scientific world is still pretty much in the dark as to how this information is used by the rest of the brain’s systems or the evolutionary origins of this intricate mechanism. The location systems of the brain and the mechanisms of memory formation will undoubtedly be a fascinating area of research for many years to come.&lt;/b&gt;&lt;/p&gt;
 
-
     &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/&quot;&gt;Brain&#39;s Positioning System&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
   </content>
 </entry>
@@ -253,15 +282,17 @@ It is now believed that the hippocampus stores not just the position, but also t
   <title type="html"><![CDATA[Memristors and the Future of Computing]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/memristors/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/memristors</id>
-  <published>2016-05-31T10:19:07+00:00</published>
-  <updated>2016-05-31T10:19:07+00:00</updated>
+  <published>2016-05-31T15:49:07+05:30</published>
+  <updated>2016-05-31T15:49:07+05:30</updated>
   <author>
     <name>Dhruv Ilesh Shah</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
     <email>dhruv.ilesh@gmail.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;In 1965, Gordon Moore predicted that the number of transistors in a dense integrated circuit doubles approximately every two years, and since then every manufacturer has been fighting hard to keep up with the Moore’s Law. With the scale of transistor entering sub-20nm, this number is saturating and Moore’s Law has begun to fail us. So what have the scientists and researchers got us? Behold the &lt;i&gt; &lt;b&gt;Memristor&lt;/b&gt;  (a portmanteau of the words memory and resistor)!&lt;/i&gt;&lt;/p&gt;
+    &lt;p&gt;Welcome the days of a new kind of electronic device.. All hail the memristor, a device that could revolutionarise the world of computing by implementing wonderful technology!&lt;/p&gt;
+
+&lt;p&gt;In 1965, Gordon Moore predicted that the number of transistors in a dense integrated circuit doubles approximately every two years, and since then every manufacturer has been fighting hard to keep up with the Moore’s Law. With the scale of transistor entering sub-20nm, this number is saturating and Moore’s Law has begun to fail us. So what have the scientists and researchers got us? Behold the &lt;i&gt; &lt;b&gt;Memristor&lt;/b&gt;  (a portmanteau of the words memory and resistor)!&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;The original concept for memristors, as conceived in 1971 by Professor Leon Chua at the University of California, Berkeley, was a passive, non-linear, two-terminal electrical component that linked electric charge and magnetic flux. Since then, the definition of memristor has been broadened to include any form of non-volatile memory that is based on resistance switching, which increases the flow of current in one direction and decreases the flow of current in the opposite direction and has since then been thought of as the fourth fundamental electrical component.&lt;/p&gt;
 
@@ -292,8 +323,8 @@ It is now believed that the hippocampus stores not just the position, but also t
   <title type="html"><![CDATA[Generalized Complex Numbers]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/generalised-complex-numbers/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/generalised-complex-numbers</id>
-  <published>2016-05-17T10:19:07+00:00</published>
-  <updated>2016-05-17T10:19:07+00:00</updated>
+  <published>2016-05-17T15:49:07+05:30</published>
+  <updated>2016-05-17T15:49:07+05:30</updated>
   <author>
     <name>Anish Kulkarni</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -375,8 +406,8 @@ It is now believed that the hippocampus stores not just the position, but also t
   <title type="html"><![CDATA[Flexagons]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/flexagons/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/flexagons</id>
-  <published>2016-05-04T10:19:07+00:00</published>
-  <updated>2016-05-04T10:19:07+00:00</updated>
+  <published>2016-05-04T15:49:07+05:30</published>
+  <updated>2016-05-04T15:49:07+05:30</updated>
   <author>
     <name>Parth Jatakia</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
