@@ -24,7 +24,7 @@ Bazinga Physics is a 3 round quiz where the participant have to rack their brain
 ###Day: Wednesday
 
 ###Time: 9:00 pm
-
+<hr>
 <style>
 table {
     border-collapse: collapse;
