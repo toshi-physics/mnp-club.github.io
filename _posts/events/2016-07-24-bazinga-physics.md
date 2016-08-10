@@ -44,7 +44,7 @@ tr:nth-child(even) {
 
 ***Bazinga! 2016 Prelims start at 9:00PM. Stay posted for results.***
 
-<u>**Finalists 2016!**</u>
+**Finalists 2016!**
 
 <table>
 	<tr>
