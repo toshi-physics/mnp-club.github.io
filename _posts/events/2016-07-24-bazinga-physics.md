@@ -72,7 +72,7 @@ Bazinga! Physics concluded with a bang - two hours of exciting reasoning, innova
         <td width="30%"> Harsh Mundra </td>
     </tr>
 </table>
-
-For all those who missed, follow <a href=""> this link </a>to check out the format and questions the finalists faced in the quiz - from explanation to paradoxes and more! Hope you all had a fun time!
-
+<hr>
+For all those who missed, follow <a href=""> this link </a>to check out the format and questions the finalists faced in the quiz - from explanation to paradoxes and more! Hope you all had a fun time!  
+<br>
 Keep Calm and Bazinga!
