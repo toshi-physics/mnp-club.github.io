@@ -42,16 +42,37 @@ tr:nth-child(even) {
 }
 </style>
 
-***Bazinga! 2016 Prelims start at 9:00PM. Stay posted for results.***
 
-<!--
 **Finalists 2016!**
 
+Bazinga! Physics concluded with a bang - two hours of exciting reasoning, innovative explanations - topped with a nail-biting finale. We are proud to present the winners of this edition of Bazinga! Physics.
 <table>
 	<tr>
-		<td width="33%"> Player 1 </td>
-		<td width="33%"> Player 2 </td>
-		<td width="33%"> Player 3 </td>
+        <td width="10%"> 1.
+		<td width="30%"> Kartik Patekar </td>
+		<td width="30%"> Sheshansh Agrawal </td>
+		<td width="30%"> Rohit Kumar Jena </td>
+    </tr>
+    <tr>
+        <td width="10%"> 2.
+        <td width="30%"> Pranav Pable </td>
+        <td width="30%"> Sanat Anand </td>
+        <td width="30%"> Kumar Ayush </td>
+    </tr>
+    <tr>
+        <td width="10%"> 3.
+        <td width="30%"> Yash Karnik </td>
+        <td width="30%"> Himanshu Aswani </td>
+        <td width="30%"> Anant Joshi </td>
+    </tr>
+    <tr>
+        <td width="10%"> 4.
+        <td width="30%"> Siddharth Mehta </td>
+        <td width="30%"> Arunabh Ghosh </td>
+        <td width="30%"> Harsh Mundra </td>
+    </tr>
 </table>
 
--->
+For all those who missed, follow <a href=""> this link </a>to check out the format and questions the finalists faced in the quiz - from explanation to paradoxes and more! Hope you all had a fun time!
+
+Keep Calm and Bazinga!
