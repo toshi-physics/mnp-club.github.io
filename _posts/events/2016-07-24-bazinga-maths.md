@@ -73,6 +73,6 @@ Bazinga! Maths concluded with a bang - two hours of exciting problem solving, su
     </tr>
 </table>
 <hr>
-For all those who missed, follow <u> <a href="https://drive.google.com/open?id=0BzrafcdwRhiEaHhkdDhjeDd2VmM"> this link </a></u>to check out the format and questions the finalists faced in the quiz - from deep-thought questions to paradoxes and more! Hope you all had a fun time!  
+For all those who missed, follow <u> <a href="https://drive.google.com/open?id=0BzrafcdwRhiEaHhkdDhjeDd2VmM" target="_blank"> this link </a></u>to check out the format and questions the finalists faced in the quiz - from deep-thought questions to paradoxes and more! Hope you all had a fun time!  
 <br>
 Keep Calm and Bazinga!
