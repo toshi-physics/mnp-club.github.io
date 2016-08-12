@@ -56,7 +56,7 @@ Bazinga! Maths concluded with a bang - two hours of exciting problem solving, su
     <tr>
         <td width="10%"> 2.
         <td width="30%"> Kartik Patekar </td>
-        <td width="30%"> Deepanshu </td>
+        <td width="30%"> Deepanshu Kush </td>
         <td width="30%"> Atharva Korde </td>
     </tr>
     <tr>
