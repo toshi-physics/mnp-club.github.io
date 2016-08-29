@@ -1,7 +1,7 @@
 ---
 layout: event
 title: Documentary Screening
-pseudo_title: Documentary Screening
+pseudo_title: Screening
 modified:
 categories: events
 excerpt:
