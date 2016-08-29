@@ -14,3 +14,10 @@ month: SEP
 Status: Future
 ---
 
+###Venue : New Yoga Room, Old SAC
+
+###Date: September 19, 2016
+
+###Day: Monday
+
+###Time: <i> TBD </i>

@@ -2,6 +2,46 @@
 
   
     {
+      "title"			: "Logic GC",
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/logic-gc/",
+      "excerpt"		: "Venue :  TBD "
+    }
+  
+
+  
+    ,{
+      "title"			: "Physics Detective",
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/physics-detective/",
+      "excerpt"		: "Venue : New Yoga Room, Old SAC"
+    }
+  
+
+  
+    ,{
+      "title"			: "LAB Visit",
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/lab-visit/",
+      "excerpt"		: "The space-Time lab is IIT Bombay’s own super-computing facility.The one of its kind laboratory in India, this super computing cluster consists of about 380 nodes with as many as 3040 processing cores, built using the most recent Intel quad core processors. The aggregate theoretical speed is expected to hover around 22 Tera-Flops. R. B. Sunoj sir will be present to tell us more about the lab!"
+    }
+  
+
+  
+    ,{
+      "title"			: "Documentary Screening",
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/documentary-screening/",
+      "excerpt"		: "Venue : FC Kohli Auditorium, KReSIT"
+    }
+  
+
+  
+    ,{
+      "title"			: "Group Discussion",
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/gd/",
+      "excerpt"		: "The GD began with a very interesting game. The game is as follows,It is a 2 player game: each player chooses a number from 1 - 9 and each number chosen should not be previously chosen by any of the two players. If the last three numbers adds to 15 the player wins. Does there exist a winning strategy.Solution: There is no winning strategy. Its analogous to playing tic-tac-toe on a magic square hence no solution."
+    }
+  
+
+  
+    ,{
       "title"			: "The Universe and Beyond!",
       "link"			: "https://stab-iitb.org/math-and-physics-club/blog/universe/",
       "excerpt"		: "Is our universe really infinite? If you keep going in some direction in a spacecraft will you see some magical force field and a sign board saying “End of the Universe, Keep Out!” (Or rather, keep in? :P). "

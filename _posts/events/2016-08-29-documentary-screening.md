@@ -14,3 +14,10 @@ month: AUG
 status: Nearest
 ---
 
+###Venue : FC Kohli Auditorium, KReSIT
+
+###Date: August 31, 2016
+
+###Day: Wednesday
+
+###Time: 9:00 pm
