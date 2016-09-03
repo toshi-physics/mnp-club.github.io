@@ -11,7 +11,7 @@ image:
 date: 2016-08-31T23:17:25+00:00
 day: 31
 month: AUG
-status: Nearest
+status: Finished
 ---
 
 ###Venue : FC Kohli Auditorium, KReSIT
