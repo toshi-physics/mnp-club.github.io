@@ -34,3 +34,5 @@ This High Performance Computing facility was ranked 1st in India in 2009 and was
 
 
 Over 130 professors across 14 departments in the department use this excellent facility for their HPC needs. Professor Sunoj also briefed us about how he was motivated to build a supercomputer in the campus to suffice his needs in Computational Molecular Chemistry. He is also spearheading the next 52 teraflop HPC installation in the institute 'SpaceTime-X' and is a part of the National Supercomputing Mission, with the vision to set up a 1500 teraflop cluster, catapulting India in the supercomputing race!
+
+Images taken during the visit can be found [here!](https://drive.google.com/folderview?id=0B-eOErpKeOmQU0ZrMmtzRTFPbXc&usp=sharing)
