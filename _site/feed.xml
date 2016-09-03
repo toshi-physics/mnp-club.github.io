@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://stab-iitb.org/math-and-physics-club/feed.xml" />
 <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club" />
-<updated>2016-08-30T00:13:12+05:30</updated>
+<updated>2016-09-03T22:18:06+05:30</updated>
 <id>https://stab-iitb.org/math-and-physics-club/</id>
 <author>
   <name>Maths And Physics Club</name>
@@ -64,9 +64,9 @@
 
 
 <entry>
-  <title type="html"><![CDATA[LAB Visit]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/lab-visit/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/lab-visit</id>
+  <title type="html"><![CDATA[Lab Visit]]></title>
+  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/" />
+  <id>https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime</id>
   <published>2016-09-04T04:47:25+05:30</published>
   <updated>2016-09-04T04:47:25+05:30</updated>
   <author>
@@ -78,7 +78,7 @@
     &lt;p&gt;The space-Time lab is IIT Bombay’s own super-computing facility.
 The one of its kind laboratory in India, this super computing cluster consists of about 380 nodes with as many as 3040 processing cores, built using the most recent Intel quad core processors. The aggregate theoretical speed is expected to hover around 22 Tera-Flops. R. B. Sunoj sir will be present to tell us more about the lab!&lt;/p&gt;
 
-&lt;p&gt;You can find out more about the lab on: http://spacetime.iitb.ac.in/index4.htm&lt;/p&gt;
+&lt;p&gt;You can find out more about the lab on the &lt;a href=&quot;http://spacetime.iitb.ac.in/index4.htm&quot;&gt;lab homepage&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;venue--old-cse-building&quot;&gt;Venue : Old CSE Building&lt;/h3&gt;
 
@@ -86,17 +86,24 @@ The one of its kind laboratory in India, this super computing cluster consists o
 
 &lt;h3 id=&quot;day-saturday&quot;&gt;Day: Saturday&lt;/h3&gt;
 
-&lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
+&lt;h3 id=&quot;time-630-pm&quot;&gt;Time: 6:30 pm&lt;/h3&gt;
+&lt;hr /&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/lab-visit/&quot;&gt;LAB Visit&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 04, 2016.&lt;/p&gt;
+&lt;p&gt;We visited the SpaceTime High Performance Computing Lab IIT Bombay. The visit was both informative and inspiring. &lt;a href=&quot;http://www.chem.iitb.ac.in/people/Faculty/prof/rbs.html&quot;&gt;Professor Sunoj&lt;/a&gt; (Convener, SpaceTime HPC) and Mr. Trirag Chowdhury (SysAd, SpaceTime HPC) explained the various components and processes that must work harmoniously in order for the 22teraflop supercomputer to do it’s job. The main hardware required for the computing part are Master nodes and several Computing nodes. These nodes are designed to be able to function 24x7 with zero downtime. There’s a huge network of cables (total 6 Km in length!) beneath the floor that connects these nodes. Much of the remaining equipment is engaged in enabling the nodes to function properly, from power supply to cooling. For the facility to be function ceaselessly, redundancy and hot-standby are essential features in every aspect including data storage, cooling system, etc. To know more about the lab visit the &lt;a href=&quot;http://spacetime.iitb.ac.in/index4.htm&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This High Performance Computing facility was ranked 1st in India in 2009 and was among the top 500 in the world for two consecutive rankings. The facility is used by various departments in the institute. This lab is a brainchild of Professor Sunoj who worked dedicatedly towards building this facility overcoming numerous challenges on the way. The message he wanted to share with young minds of the day was that “If you think you can achieve it, no matter how big or risky, stand up for it. Give in your best, and realise that it can happen. It will.”&lt;/p&gt;
+
+&lt;p&gt;Over 130 professors across 14 departments in the department use this excellent facility for their HPC needs. Professor Sunoj also briefed us about how he was motivated to build a supercomputer in the campus to suffice his needs in Computational Molecular Chemistry. He is also spearheading the next 52 teraflop HPC installation in the institute ‘SpaceTime-X’ and is a part of the National Supercomputing Mission, with the vision to set up a 1500 teraflop cluster, catapulting India in the supercomputing race!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/&quot;&gt;Lab Visit&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Documentary Screening]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/documentary-screening/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/documentary-screening</id>
+  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman/" />
+  <id>https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman</id>
   <published>2016-09-01T04:47:25+05:30</published>
   <updated>2016-09-01T04:47:25+05:30</updated>
   <author>
@@ -113,15 +120,15 @@ The one of its kind laboratory in India, this super computing cluster consists o
 
 &lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/documentary-screening/&quot;&gt;Documentary Screening&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 01, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman/&quot;&gt;Documentary Screening&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 01, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Group Discussion]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/gd/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/gd</id>
+  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/gd-1/" />
+  <id>https://stab-iitb.org/math-and-physics-club/events/gd-1</id>
   <published>2016-08-24T04:47:25+05:30</published>
   <updated>2016-08-24T04:47:25+05:30</updated>
   <author>
@@ -131,8 +138,9 @@ The one of its kind laboratory in India, this super computing cluster consists o
   </author>
   <content type="html">
     &lt;p&gt;The GD began with a very interesting game. The game is as follows,
-It is a 2 player game: each player chooses a number from 1 - 9 and each number chosen should not be previously chosen by any of the two players. If the last three numbers adds to 15 the player wins. Does there exist a winning strategy.
-Solution: There is no winning strategy. Its analogous to playing tic-tac-toe on a magic square hence no solution.&lt;/p&gt;
+It is a 2 player game: each player chooses a number from 1 - 9 and each number chosen should not be previously chosen by any of the two players. If the last three numbers adds to 15 the player wins. Does there exist a winning strategy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution:&lt;/strong&gt; There is no winning strategy. Its analogous to playing tic-tac-toe on a magic square hence no solution.&lt;/p&gt;
 
 &lt;h3 id=&quot;epr-paradox&quot;&gt;EPR Paradox&lt;/h3&gt;
 &lt;p&gt;Then we started discussing the EPR Paradox: &lt;a href=&quot;https://en.wikipedia.org/wiki/EPR_paradox&quot;&gt;Einstein-Podolsky-Rosen&lt;/a&gt; and gave the famous example of two particles starting from the same position and moving in the opposite direction such that the total momentum of the system in zero. Now the weird part of this is that if one measures the position of any one of the particles when both the particles are very far apart that transmission of information takes a significant time, we would know the position of the other particle too (by momentum conservation). Likewise, the measurement of position of the second system will determine the measurement of position of the first system, even though the systems are no longer physically linked in the traditional sense of local coupling.&lt;/p&gt;
@@ -148,15 +156,19 @@ Solution: There is no winning strategy. Its analogous to playing tic-tac-toe on 
 Arrow’s theorem says that if the decision-making body has at least two members and at least three options to decide among, then it is impossible to design a social welfare function that satisfies all these conditions (assumed to be reasonable requirement of a fair voting system) at once:&lt;/p&gt;
 
 &lt;p&gt;A simple description of the conditions/the fair rules are as follows
- * If every voter prefers alternative X over alternative Y, then the group prefers X over Y.
- * If every voter’s preference between X and Y remains unchanged, then the group’s preference between X and Y will also remain unchanged (even if voters’ preferences between other pairs like X and Z, Y and Z, or Z and W change).
- * There is no “dictator”: no single voter possesses the power to always determine the group’s preference.&lt;/p&gt;
+  * If every voter prefers alternative X over alternative Y, then the group prefers X over Y.
+  * If every voter’s preference between X and Y remains unchanged, then the group’s preference between X and Y will also remain unchanged (even if voters’ preferences between other pairs like X and Z, Y and Z, or Z and W change).
+  * There is no “dictator”: no single voter possesses the power to always determine the group’s preference.&lt;/p&gt;
 
 &lt;p&gt;A very interesting and simple informal proof is given &lt;a href=&quot;https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem&quot;&gt;here&lt;/a&gt;!&lt;/p&gt;
 
-&lt;h3 id=&quot;maxwell-demon&quot;&gt;Maxwell Demon&lt;/h3&gt;
-&lt;p&gt;The discussion then was shifted to Maxwell’s demon. One can see the following video by khan academy in which he has described the problem very nicely. &amp;lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aKRDvSZ-igA&quot; frameborder=&quot;0&quot; allowfullscreen&amp;gt;&amp;lt;/iframe&amp;gt;
-Also, dicussions led to the &lt;a href=&quot;http://www.quantumcomplexity.org/tutorials/knowledge-is-power-the-energy-content-of-bits/&quot;&gt;Szilard’s Engine&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;maxwells-demon&quot;&gt;Maxwell’s Demon&lt;/h3&gt;
+
+&lt;p&gt;The discussion then was shifted to Maxwell’s demon. One can see the following video by khan academy in which he has described the problem very nicely.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/aKRDvSZ-igA&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Also, dicussions led to the &lt;a href=&quot;http://www.quantumcomplexity.org/tutorials/knowledge-is-power-the-energy-content-of-bits/&quot;&gt;Szilard’s Engine&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;ltp&quot;&gt;LTP&lt;/h3&gt;
 
@@ -168,7 +180,7 @@ So What happened exactly?&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/gd/&quot;&gt;Group Discussion&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 24, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/gd-1/&quot;&gt;Group Discussion&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 24, 2016.&lt;/p&gt;
   </content>
 </entry>
 
