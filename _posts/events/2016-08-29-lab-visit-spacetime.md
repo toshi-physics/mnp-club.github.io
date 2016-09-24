@@ -11,7 +11,7 @@ image:
 date: 2016-09-03T23:17:25+00:00
 day: 3
 month: SEP
-status: Finished
+status: Nearest
 ---
 
 The Space-Time lab is IIT Bombay's own super-computing facility.
