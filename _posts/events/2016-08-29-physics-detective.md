@@ -11,7 +11,7 @@ image:
 date: 2016-09-19T23:17:25+00:00
 day: 19
 month: SEP
-Status:Finished
+Status: Finished
 ---
 
 ###Venue : New Yoga Room, Old SAC
