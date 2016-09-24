@@ -5,7 +5,7 @@ modified:
 categories: blog
 excerpt:
 tags: [MnP, Summers]
-author : toshi
+author : toshi_physics
 comments: true
 image:
   feature:
