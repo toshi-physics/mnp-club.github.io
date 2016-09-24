@@ -12,7 +12,7 @@ image:
 date: 2016-05-04T10:19:07+00:00
 ---
 
-Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”.
+Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”
 
 
 It all began in the fall of 1939. Arthur H. Stone, a 23-year-old graduate student from England, in residence at Princeton University on a mathematics fellowship, had just trimmed an inch from his American notebook sheets to make them fit his English binder. For amusement he began to fold the trimmed-off strips of paper in various ways, and one of the figures he made turned out to be particularly intriguing.
