@@ -20,4 +20,4 @@ Status: Finished
 
 ###Day: Monday
 
-###Time: <i> TBD </i>
+
