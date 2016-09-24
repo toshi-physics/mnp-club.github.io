@@ -20,7 +20,7 @@
     ,{
       "title"			: "Lab Visit",
       "link"			: "https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/",
-      "excerpt"		: "The space-Time lab is IIT Bombay’s own super-computing facility.The one of its kind laboratory in India, this super computing cluster consists of about 380 nodes with as many as 3040 processing cores, built using the most recent Intel quad core processors. The aggregate theoretical speed is expected to hover around 22 Tera-Flops. R. B. Sunoj sir will be present to tell us more about the lab!"
+      "excerpt"		: "The Space-Time lab is IIT Bombay’s own super-computing facility.The one of its kind laboratory in India, this super computing cluster consists of about 380 nodes with as many as 3040 processing cores, built using the most recent Intel quad core processors. The aggregate theoretical speed is expected to hover around 22 Tera-Flops. R. B. Sunoj sir will be present to tell us more about the lab!"
     }
   
 
@@ -135,13 +135,13 @@
   
 
   
-
-  
     ,{
       "title"			: "About us",
       "link"			: "https://stab-iitb.org/math-and-physics-club/about/",
       "excerpt"		: "Maths And Physics Club is"
     }
+  
+
   
 
   
