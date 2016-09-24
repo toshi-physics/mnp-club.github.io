@@ -1,6 +1,6 @@
 ---
 layout: event
-title: Talk on Graphy Theory
+title: Talk on Graph Theory
 pseudo_title: Talk on Graph Theory
 modified:
 categories: events
