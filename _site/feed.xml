@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="https://stab-iitb.org/math-and-physics-club/feed.xml" />
 <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club" />
-<updated>2016-09-17T00:43:49+00:00</updated>
+<updated>2016-10-13T19:48:01+05:30</updated>
 <id>https://stab-iitb.org/math-and-physics-club/</id>
 <author>
   <name>Maths And Physics Club</name>
@@ -17,8 +17,8 @@
   <title type="html"><![CDATA[Logic GC]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/logic-gc/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/logic-gc</id>
-  <published>2016-10-21T23:17:25+00:00</published>
-  <updated>2016-10-21T23:17:25+00:00</updated>
+  <published>2016-10-22T04:47:25+05:30</published>
+  <updated>2016-10-22T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -33,7 +33,36 @@
 
 &lt;h3 id=&quot;time-i-tbd-i&quot;&gt;Time: &lt;i&gt; TBD &lt;/i&gt;&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/logic-gc/&quot;&gt;Logic GC&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 21, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/logic-gc/&quot;&gt;Logic GC&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 22, 2016.&lt;/p&gt;
+  </content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Talk on Graph Theory]]></title>
+  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/GraphTheory/" />
+  <id>https://stab-iitb.org/math-and-physics-club/events/GraphTheory</id>
+  <published>2016-09-24T04:47:25+05:30</published>
+  <updated>2016-09-24T04:47:25+05:30</updated>
+  <author>
+    <name>Maths And Physics Club</name>
+    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <email>mnp-club-iitb@googlegroups.com</email>
+  </author>
+  <content type="html">
+    &lt;p&gt;We started with a recap of the definition and various representations of graphs. We reviewed bi-partite graphs, n-partite graphs, planar graphs and trees. 
+Cographs can be defined inductively as: a trivial graph is a cograph and a “disjoint union” or a “join” of two cographs is a cograph. Every cograph can be represented by a binary cotree (not unique) with leaf nodes as vertices and all internal nodes being labelled either as “disjoint union” or “join”. A graph is a cograph iff P3 (path of length 3) is not an induced subgraph. This characterization can be used to determine whether a graph is a cograph in linear time.
+The cotree representation suggests a generalization of the class of cographs. As before, each vertex is a leaf node in the tree representation. Assign a label to each leaf node from a set of labels L. Now each internal node is a relation on L. Two leaf nodes are adjacent iff their labels are related by the relation defined by their least common ancestor in the tree representation. The special case where L is singleton gives us cographs. 
+After this we looked at representing graph theoretic problems in first order and second order logic. Relation between complexity of solving a problem and complexity of stating a problem in a formal language was discussed. For example, all problems expressible in First Order logic have polynomial time algorithms (ie they are in P). Furthermore, Fagin showed in 1973 that the set of all properties expressible in existential second-order logic is precisely the complexity class NP! This suggests a new approach to P vs NP.&lt;/p&gt;
+
+&lt;p&gt;Graph (definition): &lt;a href=&quot;https://en.wikipedia.org/wiki/Graph_theory#Graph&quot;&gt;here&lt;/a&gt; 
+&lt;br /&gt;
+Cographs : &lt;a href=&quot;https://en.wikipedia.org/wiki/Cograph&quot;&gt;here&lt;/a&gt;
+&lt;br /&gt;
+Fagin’s theorem: &lt;a href=&quot;https://en.wikipedia.org/wiki/Fagin%27s_theorem&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/GraphTheory/&quot;&gt;Talk on Graph Theory&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 24, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -42,8 +71,8 @@
   <title type="html"><![CDATA[Physics Detective]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/physics-detective/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/physics-detective</id>
-  <published>2016-09-19T23:17:25+00:00</published>
-  <updated>2016-09-19T23:17:25+00:00</updated>
+  <published>2016-09-20T04:47:25+05:30</published>
+  <updated>2016-09-20T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -56,9 +85,8 @@
 
 &lt;h3 id=&quot;day-monday&quot;&gt;Day: Monday&lt;/h3&gt;
 
-&lt;h3 id=&quot;time-i-tbd-i&quot;&gt;Time: &lt;i&gt; TBD &lt;/i&gt;&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/physics-detective/&quot;&gt;Physics Detective&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 19, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/physics-detective/&quot;&gt;Physics Detective&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 20, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -67,8 +95,8 @@
   <title type="html"><![CDATA[Lab Visit]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime</id>
-  <published>2016-09-03T23:17:25+00:00</published>
-  <updated>2016-09-03T23:17:25+00:00</updated>
+  <published>2016-09-04T04:47:25+05:30</published>
+  <updated>2016-09-04T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -97,7 +125,7 @@ The one of its kind laboratory in India, this super computing cluster consists o
 
 &lt;p&gt;Images taken during the visit can be found &lt;a href=&quot;https://drive.google.com/folderview?id=0B-eOErpKeOmQU0ZrMmtzRTFPbXc&amp;amp;usp=sharing&quot;&gt;here!&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/&quot;&gt;Lab Visit&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 03, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/&quot;&gt;Lab Visit&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -106,8 +134,8 @@ The one of its kind laboratory in India, this super computing cluster consists o
   <title type="html"><![CDATA[Documentary Screening]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman</id>
-  <published>2016-08-31T23:17:25+00:00</published>
-  <updated>2016-08-31T23:17:25+00:00</updated>
+  <published>2016-09-01T04:47:25+05:30</published>
+  <updated>2016-09-01T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -122,7 +150,7 @@ The one of its kind laboratory in India, this super computing cluster consists o
 
 &lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman/&quot;&gt;Documentary Screening&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 31, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman/&quot;&gt;Documentary Screening&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 01, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -131,8 +159,8 @@ The one of its kind laboratory in India, this super computing cluster consists o
   <title type="html"><![CDATA[Group Discussion]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/gd-1/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/gd-1</id>
-  <published>2016-08-23T23:17:25+00:00</published>
-  <updated>2016-08-23T23:17:25+00:00</updated>
+  <published>2016-08-24T04:47:25+05:30</published>
+  <updated>2016-08-24T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -182,7 +210,7 @@ So What happened exactly?&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/gd-1/&quot;&gt;Group Discussion&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 23, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/gd-1/&quot;&gt;Group Discussion&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 24, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -191,8 +219,8 @@ So What happened exactly?&lt;/em&gt;&lt;/p&gt;
   <title type="html"><![CDATA[The Universe and Beyond!]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/universe/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/universe</id>
-  <published>2016-08-20T10:19:07+00:00</published>
-  <updated>2016-08-20T10:19:07+00:00</updated>
+  <published>2016-08-20T15:49:07+05:30</published>
+  <updated>2016-08-20T15:49:07+05:30</updated>
   <author>
     <name>Thariq Shanavas</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -240,8 +268,8 @@ So What happened exactly?&lt;/em&gt;&lt;/p&gt;
   <title type="html"><![CDATA[Bazinga! Maths]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/bazinga-maths</id>
-  <published>2016-08-11T23:18:04+00:00</published>
-  <updated>2016-08-11T23:18:04+00:00</updated>
+  <published>2016-08-12T04:48:04+05:30</published>
+  <updated>2016-08-12T04:48:04+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -311,7 +339,7 @@ For all those who missed, follow &lt;u&gt; &lt;a href=&quot;https://drive.google
 Keep Calm and Bazinga!
 &lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/&quot;&gt;Bazinga! Maths&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/&quot;&gt;Bazinga! Maths&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 12, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -320,8 +348,8 @@ Keep Calm and Bazinga!
   <title type="html"><![CDATA[Bazinga! Physics]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/bazinga-physics</id>
-  <published>2016-08-10T23:17:54+00:00</published>
-  <updated>2016-08-10T23:17:54+00:00</updated>
+  <published>2016-08-11T04:47:54+05:30</published>
+  <updated>2016-08-11T04:47:54+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -391,7 +419,7 @@ For all those who missed, follow &lt;u&gt; &lt;a href=&quot;https://drive.google
 Keep Calm and Bazinga!
 &lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/&quot;&gt;Bazinga! Physics&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 10, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/&quot;&gt;Bazinga! Physics&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -400,8 +428,8 @@ Keep Calm and Bazinga!
   <title type="html"><![CDATA[STAB Orientation For The Freshmen]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/stab-orientation/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/stab-orientation</id>
-  <published>2016-08-03T23:17:25+00:00</published>
-  <updated>2016-08-03T23:17:25+00:00</updated>
+  <published>2016-08-04T04:47:25+05:30</published>
+  <updated>2016-08-04T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -419,7 +447,7 @@ Keep Calm and Bazinga!
 &lt;h2 id=&quot;time-500-pm&quot;&gt;Time: 5:00 pm&lt;/h2&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/stab-orientation/&quot;&gt;STAB Orientation For The Freshmen&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 03, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/stab-orientation/&quot;&gt;STAB Orientation For The Freshmen&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -428,8 +456,8 @@ Keep Calm and Bazinga!
   <title type="html"><![CDATA[Summer Of Science (SOS) Project Presentation]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/sos-meetup/" />
   <id>https://stab-iitb.org/math-and-physics-club/events/sos-meetup</id>
-  <published>2016-07-28T23:17:02+00:00</published>
-  <updated>2016-07-28T23:17:02+00:00</updated>
+  <published>2016-07-29T04:47:02+05:30</published>
+  <updated>2016-07-29T04:47:02+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -446,7 +474,7 @@ Keep Calm and Bazinga!
 
 &lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/sos-meetup/&quot;&gt;Summer Of Science (SOS) Project Presentation&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 28, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/sos-meetup/&quot;&gt;Summer Of Science (SOS) Project Presentation&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 29, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -455,12 +483,12 @@ Keep Calm and Bazinga!
   <title type="html"><![CDATA[Blackhole Information Paradox]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox</id>
-  <published>2016-07-24T10:19:07+00:00</published>
-  <updated>2016-07-24T10:19:07+00:00</updated>
+  <published>2016-07-24T15:49:07+05:30</published>
+  <updated>2016-07-24T15:49:07+05:30</updated>
   <author>
     <name>Toshi Parmar</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
-    
+    <email>toshi.tanu08@gmail.com</email>
   </author>
   <content type="html">
     &lt;p&gt;&lt;strong&gt;&lt;em&gt;Does the baffle still remain?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -534,8 +562,8 @@ A year later, L. Susskind published a paper, ‘The World as A Hologram’$^{[19
   <title type="html"><![CDATA[Brain's Positioning System]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/brain-positioning</id>
-  <published>2016-06-06T00:01:22+00:00</published>
-  <updated>2016-06-06T00:01:22+00:00</updated>
+  <published>2016-06-06T05:31:22+05:30</published>
+  <updated>2016-06-06T05:31:22+05:30</updated>
   <author>
     <name>Thariq Shanavas</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
@@ -578,142 +606,18 @@ It is now believed that the hippocampus stores not just the position, but also t
 
 
 <entry>
-  <title type="html"><![CDATA[Memristors and the Future of Computing]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/memristors/" />
-  <id>https://stab-iitb.org/math-and-physics-club/blog/memristors</id>
-  <published>2016-05-31T10:19:07+00:00</published>
-  <updated>2016-05-31T10:19:07+00:00</updated>
-  <author>
-    <name>Dhruv Ilesh Shah</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
-    <email>dhruv.ilesh@gmail.com</email>
-  </author>
-  <content type="html">
-    &lt;p&gt;Welcome the days of a new kind of electronic device.. All hail the memristor, a device that could revolutionarise the world of computing by implementing wonderful technology!&lt;/p&gt;
-
-&lt;p&gt;In 1965, Gordon Moore predicted that the number of transistors in a dense integrated circuit doubles approximately every two years, and since then every manufacturer has been fighting hard to keep up with the Moore’s Law. With the scale of transistor entering sub-20nm, this number is saturating and Moore’s Law has begun to fail us. So what have the scientists and researchers got us? Behold the &lt;i&gt; &lt;b&gt;Memristor&lt;/b&gt;  (a portmanteau of the words memory and resistor)!&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;The original concept for memristors, as conceived in 1971 by Professor Leon Chua at the University of California, Berkeley, was a passive, non-linear, two-terminal electrical component that linked electric charge and magnetic flux. Since then, the definition of memristor has been broadened to include any form of non-volatile memory that is based on resistance switching, which increases the flow of current in one direction and decreases the flow of current in the opposite direction and has since then been thought of as the fourth fundamental electrical component.&lt;/p&gt;
-
-&lt;p&gt;Memristors constitute a special type of memory, called the &lt;a href=&quot;https://en.wikipedia.org/wiki/Resistive_random-access_memory&quot;&gt; ReRAM &lt;/a&gt; or resistive RAM, which works by altering the resistance across a dielectric. The outlook of memristors as memory devices started in 1996, when Stanley Williams, the founding director of the Quantum Science Research Laboratory at Hewlett-Packard, began to look for memory devices that are defect intolerant at the nano scale. And what better way to make a device defect-intolerant than too employ the defects themselves for the job!&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt; How Memristors Work :&lt;/b&gt; Instead of electrons, memristors use ions as the means of storing information. As the current passes, the holes and defects enable ions of informations to pass through with much greater speed and efficiency - way beyond 1 and 0, to 2, 3 and so on. These levels can be treated as distinct and the demarcation be carried out with ease.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt; What Does This Mean? &lt;/b&gt; At a lower power consumption than a transistor, a memristor can have multiple levels of representing data (upto 6 levels have been achieved), thus reducing the number of memristors required to perform the same task and who knows - the computer may actually become equipped with base-10 memory soon enough! For example, the largest unsigned binary 64-bit ­integer—18,446,744,073,709,551,615—could be held in 20 bits instead of 64. This not only reduces the number of transistors used, but also the complexity of circuits and ease of NLP.&lt;/p&gt;
-
-&lt;p&gt;A memristor is often compared to an imaginary pipe that carries water. When the water flows in one direction, the pipe’s diameter expands and allows the water to flow faster – but when the water flows in the opposite direction, the pipe’s diameter contracts and slows the water’s flow down. If the water is shut off, the pipe retains its diameter until the water is turned back on. To continue the analogy, when a  memristor’s power is shut off, the memristor retains its resistance value. This would mean that if power to a computer was cut off with a hard shut down,  all the applications and documents that were open before the shut down would still be right there the screen when the computer was restarted. Isn’t that cool? Although we have been able to cut down the leakage current in conventional transistors, we cannot dare imagine making them as efficient as a prototype of a memristor! This would mean a big revolution in computing, and the best part is that it could be market-ready much before Quantum Computers (which use qubits to store more data-per-bit).&lt;/p&gt;
-
-&lt;p&gt;To see how the non-volatile nature and resistive-switching is achieved, check out this video by Stanley Williams: &lt;a href=&quot;https://www.youtube.com/watch?v=rvA5r4LtVnc&quot;&gt; The 6 Minute Memristor Guide&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;In fact Hewlett-Packard has a whole unit devoted to developing ‘The Machine’, &lt;em&gt;using electrons for processing, photons for communication, and ions for storage&lt;/em&gt;, expected to be completed by 2020.&lt;/p&gt;
-
-&lt;p&gt;Jennifer Rupp, a Professor of electrochemical materials at ETH Zurich,is working with IBM to build a memristor-based machine. Memristors, she points out, function in a way that is similar to a human brain: “Unlike a transistor, which is based on binary codes, a memristor can have multi-levels. You could have several states, let’s say zero, one half, one quarter, one third, and so on, and that gives us a very powerful new perspective on how our computers may develop in the future,” she says.&lt;/p&gt;
-
-&lt;p&gt;Such a shift in computing methodology would allow us to create “smart” computers that operate in a way reminiscent of the synapses in our brains. Free from the limitations of the 0s and 1s, these more powerful computers would be able to learn and make decisions, ultimately getting us one step closer to creating human-like artificial intelligence.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;The outcome of this revolution would only be evident by the next decade, but the fact that nano-electronics has enabled us to revolutionarise the micro-electronics industry is a clear signal - to cope up with our growing computing needs, to explore the vastness of Universe, the path goes from within the Nano World! Memristors and Qubits are all set to power the upcoming generations in unfolding the mysteries of our creation, existence and the universe (multiple of them, in fact!)&lt;/i&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/memristors/&quot;&gt;Memristors and the Future of Computing&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 31, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Generalized Complex Numbers]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/generalised-complex-numbers/" />
-  <id>https://stab-iitb.org/math-and-physics-club/blog/generalised-complex-numbers</id>
-  <published>2016-05-17T10:19:07+00:00</published>
-  <updated>2016-05-17T10:19:07+00:00</updated>
-  <author>
-    <name>Anish Kulkarni</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
-    
-  </author>
-  <content type="html">
-    &lt;p&gt;Have you ever wondered, why is multiplication of complex numbers defined in such a peculiar fashion and can we do it in another way? Can there be other geometrical interpretations for complex numbers? It turns out, these questions are related and lead to the definition of “Generalized Complex Numbers.”&lt;/p&gt;
-
-&lt;p&gt;Here we redefine the multiplication on the set $R\times R$ while preserving certain properties. Addition is defined as before. We desire multiplication to be associative, commutative and distributive. Further we want to satisfy:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(x_1,y_1)\cdot (x,0) = (x\cdot x_1,x\cdot y_1)&lt;/script&gt;
-
-&lt;p&gt;This is because we still want to interpret (x,0) as a “purely real” number. Thus we can interpret $(x,y)$ as&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(x,y) = (x,0)\cdot (1,0)+(y,0)\cdot (0,1)&lt;/script&gt;
-
-&lt;p&gt;The properties of the new multiplication discussed so far allow us to conclude:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(x_1,y_1)\cdot (x_2,y_2) = x_1x_2 + (0,1)(0,1)y_1y_2 + (x_1y_2 + x_2y_1)(0,1)&lt;/script&gt;
-
-&lt;p&gt;Thus, it all boils down to the definition of $(0,1)\cdot (0,1)$ . We may now define:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(0,1)(0,1)=(p,q)&lt;/script&gt;
-
-&lt;p&gt;It turns out, there are only three different ways (unique up to isomorphism as rings) to choose p and q. For example, $q = 0$ and $p = 1 , 0$ or $-1$. The choice $p = -1$ gives us complex numbers that we are familiar with, $p = 1$ gives double numbers while $p = 0$ gives dual numbers. From here on we assume $q = 0$ and $p$ as any real number and the term complex number refers to generalized complex number.&lt;/p&gt;
-
-&lt;p&gt;Application of dual numbers:&lt;/p&gt;
-
-&lt;p&gt;Here we make a rather strange choice $(0,1)^2 = (0,0)$. As a handy notation let $\epsilon  = (0,1)$. So every dual number is of the form a+ɛb and $\epsilon ^2 = 0$. Suppose P(x) is a polynomial over reals. We see that :&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;P(a+b\epsilon) = P(a) + b\epsilon P&#39;(a)&lt;/script&gt;
-
-&lt;p&gt;Where $P’$ denotes the derivative. In fact this is also true for a power series and hence for any analytical function. For example,&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\sin (a+b\epsilon) = \sin (a) + b\epsilon \cos (a)&lt;/script&gt;
-
-&lt;p&gt;This is a technique used in Automatic Differentiation in Computer Algebra.&lt;/p&gt;
-
-&lt;p&gt;Geometrical Properties:&lt;/p&gt;
-
-&lt;p&gt;Now let us examine a few geometric properties. Define the complex conjugate of $(x,y)$ to be $(x,-y)$ as before. Notice that $(x,y)(x,-y) = (x^2 – py^2,0)$ is always a “real number”. So we define modulus of (x,y) as&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\|(x,y)\| = sqrt(\|x^2 –py^2\|)&lt;/script&gt;
-
-&lt;p&gt;A unit circle is then defined as the set $(x,y)$ for $|x,y|=1$&lt;/p&gt;
-
-&lt;p&gt;This represents an &lt;em&gt;ellipse&lt;/em&gt; for $p \lneq 0$ (Elliptical number system), a pair of parallel lines for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for $p=0$ (Parabolic number system) and a pair of conjugate hyperbolae for  $p \gneq 0$ (Hyperbolic Number system). The argument of a complex number $T(x,y)$ is defined as twice the area of the portion of the unit circle cut out by the ray OT and the real axis, O being the origin (this definition isn’t complete. The attached article gives a fuller account). These definitions give us the beautiful result:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;The modulus of the product is the product of the modulus; and the argument of the product is the sum of arguments.&lt;/em&gt;&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\|z_1z_2\| = \|z_1\|\|z_2\|&lt;/script&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;Arg(z_1z_2) = Arg(z_1) + Arg(z_2)&lt;/script&gt;
-
-&lt;p&gt;Geometrically, this means that multiplication by a generalized complex number is a rotation in the respective plane followed by scaling. Multiplication by a unit complex number is just pure rotation.&lt;/p&gt;
-
-&lt;p&gt;Application to Special Relativity and Lorentz Transformation:&lt;/p&gt;
-
-&lt;p&gt;Consider $ p=\frac{1}{c^2}$ and let $(t,x)$ and $(t’,x’)$ denote the spacetime coordinates of an event in ground frame and a reference frame moving with velocity $v$ w.r.t. it. Let $z = (1,v)$ and $w$ be the unit complex number $\frac{z}{|z|}$. Then&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(t,x)\cdot w =  (t&#39;,x&#39;)&lt;/script&gt;
-
-&lt;p&gt;Thus, the Lorentz transform in two dimensional Special Relativity is a rotation in the hyperbolic complex plane! This means the modulus doesn’t change under this transform. Which means:&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(ct)^2 – x^2 = (ct&#39;)^2 – x&#39;^2&lt;/script&gt;
-
-&lt;p&gt;It is also interesting to note that if p=0, (the case of dual numbers), then w = (1,v) is a unit complex number and multiplication by it gives us the Galilean transformation.&lt;/p&gt;
-
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;(t,x)\cdot (1,v) = (t, x+vt )&lt;/script&gt;
-
-&lt;p&gt;You can find more exciting stuff like trigonometry in various cases $(p\lneq 0, p=0, p\gneq 0)$ and the generalizations of Euler’s formula in the article. Have fun exploring their properties. If you come to know of any other applications of generalized complex numbers, please do share!&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/generalised-complex-numbers/&quot;&gt;Generalized Complex Numbers&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 17, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Flexagons]]></title>
   <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/flexagons/" />
   <id>https://stab-iitb.org/math-and-physics-club/blog/flexagons</id>
-  <published>2016-05-04T10:19:07+00:00</published>
-  <updated>2016-05-04T10:19:07+00:00</updated>
+  <published>2016-05-04T15:49:07+05:30</published>
+  <updated>2016-05-04T15:49:07+05:30</updated>
   <author>
     <name>Parth Jatakia</name>
     <uri>https://stab-iitb.org/math-and-physics-club</uri>
     <email>parth.jatakia@gmail.com</email>
   </author>
   <content type="html">
-    &lt;p&gt;Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”.&lt;/p&gt;
+    &lt;p&gt;Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”&lt;/p&gt;
 
 &lt;p&gt;It all began in the fall of 1939. Arthur H. Stone, a 23-year-old graduate student from England, in residence at Princeton University on a mathematics fellowship, had just trimmed an inch from his American notebook sheets to make them fit his English binder. For amusement he began to fold the trimmed-off strips of paper in various ways, and one of the figures he made turned out to be particularly intriguing.
 Here’s the video to make a simple hexaflexagon.&lt;/p&gt;

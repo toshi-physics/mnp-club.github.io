@@ -10,6 +10,14 @@
 
   
     ,{
+      "title"			: "Talk on Graph Theory",
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/GraphTheory/",
+      "excerpt"		: "We started with a recap of the definition and various representations of graphs. We reviewed bi-partite graphs, n-partite graphs, planar graphs and trees. Cographs can be defined inductively as: a trivial graph is a cograph and a “disjoint union” or a “join” of two cographs is a cograph. Every cograph can be represented by a binary cotree (not unique) with leaf nodes as vertices and all internal nodes being labelled either as “disjoint union” or “join”. A graph is a cograph iff P3 (path of length 3) is not an induced subgraph. This characterization can be used to determine whether a graph is a cograph in linear time.The cotree representation suggests a generalization of the class of cographs. As before, each vertex is a leaf node in the tree representation. Assign a label to each leaf node from a set of labels L. Now each internal node is a relation on L. Two leaf nodes are adjacent iff their labels are related by the relation defined by their least common ancestor in the tree representation. The special case where L is singleton gives us cographs. After this we looked at representing graph theoretic problems in first order and second order logic. Relation between complexity of solving a problem and complexity of stating a problem in a formal language was discussed. For example, all problems expressible in First Order logic have polynomial time algorithms (ie they are in P). Furthermore, Fagin showed in 1973 that the set of all properties expressible in existential second-order logic is precisely the complexity class NP! This suggests a new approach to P vs NP."
+    }
+  
+
+  
+    ,{
       "title"			: "Physics Detective",
       "link"			: "https://stab-iitb.org/math-and-physics-club/events/physics-detective/",
       "excerpt"		: "Venue : New Yoga Room, Old SAC"
@@ -98,29 +106,15 @@
 
   
     ,{
-      "title"			: "Memristors and the Future of Computing",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/blog/memristors/",
-      "excerpt"		: "Welcome the days of a new kind of electronic device.. All hail the memristor, a device that could revolutionarise the world of computing by implementing wonderful technology!"
-    }
-  
-
-  
-    ,{
-      "title"			: "Generalized Complex Numbers",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/blog/generalised-complex-numbers/",
-      "excerpt"		: "Have you ever wondered, why is multiplication of complex numbers defined in such a peculiar fashion and can we do it in another way? Can there be other geometrical interpretations for complex numbers? It turns out, these questions are related and lead to the definition of “Generalized Complex Numbers.”"
-    }
-  
-
-  
-    ,{
       "title"			: "Flexagons",
       "link"			: "https://stab-iitb.org/math-and-physics-club/blog/flexagons/",
-      "excerpt"		: "Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”."
+      "excerpt"		: "Flexagons are paper polygons, folded from straight or crooked strips of paper, which have the fascinating property of changing their faces when they are “flexed”"
     }
   
 
 
+
+  
 
   
 
@@ -140,8 +134,6 @@
       "link"			: "https://stab-iitb.org/math-and-physics-club/about/",
       "excerpt"		: "Maths And Physics Club is"
     }
-  
-
   
 
   
