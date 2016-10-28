@@ -4,7 +4,7 @@
     {
       "title"			: "Algorithmic Biology",
       "link"			: "http://mnp-club.github.io//events/algo-bio/",
-      "excerpt"		: ""
+      "excerpt"		: "from Molecules to Intelligence!"
     }
   
 
@@ -109,6 +109,14 @@
       "title"			: "Brain's Positioning System",
       "link"			: "http://mnp-club.github.io//blog/brain-positioning/",
       "excerpt"		: "Ever wondered what’s happening in our brains when we get lost or explore a new place? The Nobel Prize in Physiology for the year 2014 was awarded for some of the answers to this problem which had been puzzling scientists for almost a century."
+    }
+  
+
+  
+    ,{
+      "title"			: "Memristors and the Future of Computing",
+      "link"			: "http://mnp-club.github.io//blog/memristors/",
+      "excerpt"		: "Welcome the days of a new kind of electronic device.. All hail the memristor, a device that could revolutionarise the world of computing by implementing wonderful technology!"
     }
   
 
