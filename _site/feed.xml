@@ -2,64 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Maths & Physics Club</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="https://stab-iitb.org/math-and-physics-club/feed.xml" />
-<link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club" />
-<updated>2016-10-28T13:48:26+05:30</updated>
-<id>https://stab-iitb.org/math-and-physics-club/</id>
+<link rel="self" type="application/atom+xml" href="http://mnp-club.github.io//feed.xml" />
+<link rel="alternate" type="text/html" href="http://mnp-club.github.io/" />
+<updated>2016-10-28T16:06:41+05:30</updated>
+<id>http://mnp-club.github.io//</id>
 <author>
   <name>Maths And Physics Club</name>
-  <uri>https://stab-iitb.org/math-and-physics-club/</uri>
+  <uri>http://mnp-club.github.io//</uri>
   <email>mnp-club-iitb@googlegroups.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[Logic GC]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/logic-gc1/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/logic-gc1</id>
-  <published>2016-10-12T04:48:04+05:30</published>
-  <updated>2016-10-12T04:48:04+05:30</updated>
+  <title type="html"><![CDATA[Algorithmic Biology]]></title>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/algo-bio/" />
+  <id>http://mnp-club.github.io//events/algo-bio</id>
+  <published>2016-10-28T04:48:04+05:30</published>
+  <updated>2016-10-28T04:48:04+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
-    
+    &lt;p&gt;&lt;img src=&quot;/images/Algorithmic-Biology-Talk/talk1.1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/logic-gc1/&quot;&gt;Logic GC&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 12, 2016.&lt;/p&gt;
+&lt;iframe src=&quot;http://docs.google.com/gview?url=http://home.iitb.ac.in/~dhruv.shah/cv.pdf&amp;amp;embedded=true&quot; style=&quot;width:718px; height:700px;&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/algo-bio/&quot;&gt;Algorithmic Biology&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 28, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Logic GC]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/algo-bio/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/algo-bio</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/logic-gc1/" />
+  <id>http://mnp-club.github.io//events/logic-gc1</id>
   <published>2016-10-12T04:48:04+05:30</published>
   <updated>2016-10-12T04:48:04+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
     
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/algo-bio/&quot;&gt;Logic GC&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 12, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/logic-gc1/&quot;&gt;Logic GC&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 12, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Talk on Graph Theory]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/GraphTheory/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/GraphTheory</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/GraphTheory/" />
+  <id>http://mnp-club.github.io//events/GraphTheory</id>
   <published>2016-09-24T04:48:04+05:30</published>
   <updated>2016-09-24T04:48:04+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -75,20 +77,20 @@ Cographs : &lt;a href=&quot;https://en.wikipedia.org/wiki/Cograph&quot;&gt;here&
 Fagin’s theorem: &lt;a href=&quot;https://en.wikipedia.org/wiki/Fagin%27s_theorem&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/GraphTheory/&quot;&gt;Talk on Graph Theory&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 24, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/GraphTheory/&quot;&gt;Talk on Graph Theory&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 24, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Physics Detective]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/physics-detective/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/physics-detective</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/physics-detective/" />
+  <id>http://mnp-club.github.io//events/physics-detective</id>
   <published>2016-09-20T04:48:04+05:30</published>
   <updated>2016-09-20T04:48:04+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -99,20 +101,20 @@ Fagin’s theorem: &lt;a href=&quot;https://en.wikipedia.org/wiki/Fagin%27s_theo
 &lt;h3 id=&quot;day-monday&quot;&gt;Day: Monday&lt;/h3&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/physics-detective/&quot;&gt;Physics Detective&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 20, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/physics-detective/&quot;&gt;Physics Detective&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 20, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Lab Visit]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/lab-visit-spacetime/" />
+  <id>http://mnp-club.github.io//events/lab-visit-spacetime</id>
   <published>2016-09-04T04:47:25+05:30</published>
   <updated>2016-09-04T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -138,20 +140,20 @@ The one of its kind laboratory in India, this super computing cluster consists o
 
 &lt;p&gt;Images taken during the visit can be found &lt;a href=&quot;https://drive.google.com/folderview?id=0B-eOErpKeOmQU0ZrMmtzRTFPbXc&amp;amp;usp=sharing&quot;&gt;here!&lt;/a&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/&quot;&gt;Lab Visit&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 04, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/lab-visit-spacetime/&quot;&gt;Lab Visit&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Documentary Screening]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/documentary-screening-feynman/" />
+  <id>http://mnp-club.github.io//events/documentary-screening-feynman</id>
   <published>2016-09-01T04:47:25+05:30</published>
   <updated>2016-09-01T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -163,20 +165,20 @@ The one of its kind laboratory in India, this super computing cluster consists o
 
 &lt;h3 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h3&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/documentary-screening-feynman/&quot;&gt;Documentary Screening&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 01, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/documentary-screening-feynman/&quot;&gt;Documentary Screening&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on September 01, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Group Discussion]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/gd-1/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/gd-1</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/gd-1/" />
+  <id>http://mnp-club.github.io//events/gd-1</id>
   <published>2016-08-24T04:47:25+05:30</published>
   <updated>2016-08-24T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -223,20 +225,20 @@ So What happened exactly?&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/gd-1/&quot;&gt;Group Discussion&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 24, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/gd-1/&quot;&gt;Group Discussion&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 24, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Universe and Beyond!]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/universe/" />
-  <id>https://stab-iitb.org/math-and-physics-club/blog/universe</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/universe/" />
+  <id>http://mnp-club.github.io//blog/universe</id>
   <published>2016-08-20T15:49:07+05:30</published>
   <updated>2016-08-20T15:49:07+05:30</updated>
   <author>
     <name>Thariq Shanavas</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     
   </author>
   <content type="html">
@@ -272,20 +274,20 @@ So What happened exactly?&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Curious about the mathematical formalism of the Riemann Walker metric? Or the exact deviation of pi from its ‘Euclidean’ value? Dark energy and inflation? &lt;a href=&quot;https://drive.google.com/open?id=0B89M-PMv8EXlRUozVW43RWJtTkE&quot;&gt; &lt;u&gt;Read on &lt;/u&gt;&lt;/a&gt; to find out more!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/universe/&quot;&gt;The Universe and Beyond!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 20, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/universe/&quot;&gt;The Universe and Beyond!&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 20, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Bazinga! Maths]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/bazinga-maths</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/bazinga-maths/" />
+  <id>http://mnp-club.github.io//events/bazinga-maths</id>
   <published>2016-08-12T04:48:04+05:30</published>
   <updated>2016-08-12T04:48:04+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -352,20 +354,20 @@ For all those who missed, follow &lt;u&gt; &lt;a href=&quot;https://drive.google
 Keep Calm and Bazinga!
 &lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-maths/&quot;&gt;Bazinga! Maths&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 12, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/bazinga-maths/&quot;&gt;Bazinga! Maths&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 12, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Bazinga! Physics]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/bazinga-physics</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/bazinga-physics/" />
+  <id>http://mnp-club.github.io//events/bazinga-physics</id>
   <published>2016-08-11T04:47:54+05:30</published>
   <updated>2016-08-11T04:47:54+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -432,20 +434,20 @@ For all those who missed, follow &lt;u&gt; &lt;a href=&quot;https://drive.google
 Keep Calm and Bazinga!
 &lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/bazinga-physics/&quot;&gt;Bazinga! Physics&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/bazinga-physics/&quot;&gt;Bazinga! Physics&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 11, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[STAB Orientation For The Freshmen]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/stab-orientation/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/stab-orientation</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/stab-orientation/" />
+  <id>http://mnp-club.github.io//events/stab-orientation</id>
   <published>2016-08-04T04:47:25+05:30</published>
   <updated>2016-08-04T04:47:25+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -460,20 +462,20 @@ Keep Calm and Bazinga!
 &lt;h2 id=&quot;time-500-pm&quot;&gt;Time: 5:00 pm&lt;/h2&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/stab-orientation/&quot;&gt;STAB Orientation For The Freshmen&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 04, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/stab-orientation/&quot;&gt;STAB Orientation For The Freshmen&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on August 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Summer Of Science (SOS) Project Presentation]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/events/sos-meetup/" />
-  <id>https://stab-iitb.org/math-and-physics-club/events/sos-meetup</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//events/sos-meetup/" />
+  <id>http://mnp-club.github.io//events/sos-meetup</id>
   <published>2016-07-29T04:47:02+05:30</published>
   <updated>2016-07-29T04:47:02+05:30</updated>
   <author>
     <name>Maths And Physics Club</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>mnp-club-iitb@googlegroups.com</email>
   </author>
   <content type="html">
@@ -487,20 +489,20 @@ Keep Calm and Bazinga!
 
 &lt;h2 id=&quot;time-900-pm&quot;&gt;Time: 9:00 pm&lt;/h2&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/events/sos-meetup/&quot;&gt;Summer Of Science (SOS) Project Presentation&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 29, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/sos-meetup/&quot;&gt;Summer Of Science (SOS) Project Presentation&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 29, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Blackhole Information Paradox]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox/" />
-  <id>https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/blackhole-paradox/" />
+  <id>http://mnp-club.github.io//blog/blackhole-paradox</id>
   <published>2016-07-24T15:49:07+05:30</published>
   <updated>2016-07-24T15:49:07+05:30</updated>
   <author>
     <name>Toshi Parmar</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>toshi.tanu08@gmail.com</email>
   </author>
   <content type="html">
@@ -566,20 +568,20 @@ A year later, L. Susskind published a paper, ‘The World as A Hologram’$^{[19
 [19] &lt;a href=&quot;http://xxx.lanl.gov/abs/hep-th/9409089&quot;&gt;The World as Hologram&lt;/a&gt;&lt;br /&gt;
 [20] &lt;a href=&quot;http://blogs.scientificamerican.com/dark-star-diaries/stephen-hawking-s-new-black-hole-paper-translated-an-interview-with-co-author-andrew-strominger/&quot;&gt;Interview by co-author Andrew Strominger&lt;/a&gt;)&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/blackhole-paradox/&quot;&gt;Blackhole Information Paradox&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 24, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/blackhole-paradox/&quot;&gt;Blackhole Information Paradox&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on July 24, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Brain's Positioning System]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/" />
-  <id>https://stab-iitb.org/math-and-physics-club/blog/brain-positioning</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/brain-positioning/" />
+  <id>http://mnp-club.github.io//blog/brain-positioning</id>
   <published>2016-06-06T05:31:22+05:30</published>
   <updated>2016-06-06T05:31:22+05:30</updated>
   <author>
     <name>Thariq Shanavas</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     
   </author>
   <content type="html">
@@ -613,20 +615,20 @@ It is now believed that the hippocampus stores not just the position, but also t
 
 &lt;p&gt;&lt;b&gt;However, the scientific world is still pretty much in the dark as to how this information is used by the rest of the brain’s systems or the evolutionary origins of this intricate mechanism. The location systems of the brain and the mechanisms of memory formation will undoubtedly be a fascinating area of research for many years to come.&lt;/b&gt;&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/brain-positioning/&quot;&gt;Brain&#39;s Positioning System&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/brain-positioning/&quot;&gt;Brain&#39;s Positioning System&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on June 06, 2016.&lt;/p&gt;
   </content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Flexagons]]></title>
-  <link rel="alternate" type="text/html" href="https://stab-iitb.org/math-and-physics-club/blog/flexagons/" />
-  <id>https://stab-iitb.org/math-and-physics-club/blog/flexagons</id>
+  <link rel="alternate" type="text/html" href="http://mnp-club.github.io//blog/flexagons/" />
+  <id>http://mnp-club.github.io//blog/flexagons</id>
   <published>2016-05-04T15:49:07+05:30</published>
   <updated>2016-05-04T15:49:07+05:30</updated>
   <author>
     <name>Parth Jatakia</name>
-    <uri>https://stab-iitb.org/math-and-physics-club</uri>
+    <uri>http://mnp-club.github.io/</uri>
     <email>parth.jatakia@gmail.com</email>
   </author>
   <content type="html">
@@ -656,7 +658,7 @@ Tuckerman quickly discovered that the simplest way to bring out all the faces of
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/GTwrVAbV56o&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/center&gt;
 
-    &lt;p&gt;&lt;a href=&quot;https://stab-iitb.org/math-and-physics-club/blog/flexagons/&quot;&gt;Flexagons&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;https://stab-iitb.org/math-and-physics-club&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 04, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//blog/flexagons/&quot;&gt;Flexagons&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on May 04, 2016.&lt;/p&gt;
   </content>
 </entry>
 
