@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://stab-iitb.org/math-and-physics-club/events/logic-gc/</loc>
-<lastmod>2016-10-22T04:47:25+05:30</lastmod>
+<loc>https://stab-iitb.org/math-and-physics-club/events/logic-gc1/</loc>
+<lastmod>2016-10-12T04:48:04+05:30</lastmod>
+</url>
+<url>
+<loc>https://stab-iitb.org/math-and-physics-club/events/algo-bio/</loc>
+<lastmod>2016-10-12T04:48:04+05:30</lastmod>
 </url>
 <url>
 <loc>https://stab-iitb.org/math-and-physics-club/events/GraphTheory/</loc>
-<lastmod>2016-09-24T04:47:25+05:30</lastmod>
+<lastmod>2016-09-24T04:48:04+05:30</lastmod>
 </url>
 <url>
 <loc>https://stab-iitb.org/math-and-physics-club/events/physics-detective/</loc>
-<lastmod>2016-09-20T04:47:25+05:30</lastmod>
+<lastmod>2016-09-20T04:48:04+05:30</lastmod>
 </url>
 <url>
 <loc>https://stab-iitb.org/math-and-physics-club/events/lab-visit-spacetime/</loc>

@@ -8,10 +8,10 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-09-23T23:17:25+00:00
+date: 2016-09-23T23:18:04+00:00
 day: 23
 month: SEP
-Status: Nearest
+status: Finished
 ---
 
 We started with a recap of the definition and various representations of graphs. We reviewed bi-partite graphs, n-partite graphs, planar graphs and trees. 

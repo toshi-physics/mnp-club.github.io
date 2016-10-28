@@ -8,10 +8,10 @@ excerpt:
 tags: []
 image:
   feature:
-date: 2016-09-19T23:17:25+00:00
+date: 2016-09-19T23:18:04+00:00
 day: 19
 month: SEP
-Status: Finished
+status: Finished
 ---
 
 ###Venue : New Yoga Room, Old SAC

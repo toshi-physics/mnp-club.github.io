@@ -3,8 +3,16 @@
   
     {
       "title"			: "Logic GC",
-      "link"			: "https://stab-iitb.org/math-and-physics-club/events/logic-gc/",
-      "excerpt"		: "Venue :  TBD "
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/logic-gc1/",
+      "excerpt"		: ""
+    }
+  
+
+  
+    ,{
+      "title"			: "Logic GC",
+      "link"			: "https://stab-iitb.org/math-and-physics-club/events/algo-bio/",
+      "excerpt"		: ""
     }
   
 
