@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://mnp-club.github.io//feed.xml" />
 <link rel="alternate" type="text/html" href="http://mnp-club.github.io/" />
-<updated>2016-10-28T16:38:45+05:30</updated>
+<updated>2016-10-28T16:41:32+05:30</updated>
 <id>http://mnp-club.github.io//</id>
 <author>
   <name>Maths And Physics Club</name>
@@ -55,11 +55,12 @@ You can find Prof. Manoj Gopalkrishnan’s paper on this topic &lt;a href=&quot;
 The slides used in the talk can be found &lt;a href=&quot;https://drive.google.com/open?id=0BzrafcdwRhiEZFhkeW84b2VfTFM5bWdVYU01eV9yblBqWW5N&quot;&gt;here.&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Here are some snaps from the talk! Cheers!&lt;/p&gt;
-&lt;table&gt;
+&lt;table border=&quot;1&quot;&gt;
 &lt;tr&gt;
-&lt;td&gt; ![](/images/Algorithmic-Biology-Talk/talk1.1.jpg)  
-&lt;tr&gt;&lt;td&gt;  ![](/images/Algorithmic-Biology-Talk/talk1.2.jpg)   
-&lt;tr&gt;&lt;td&gt;  ![](/images/Algorithmic-Biology-Talk/talk1.3.jpg)   
+&lt;td&gt; &lt;img src=&quot;/images/Algorithmic-Biology-Talk/talk1.1.jpg&quot; /&gt;   
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/images/Algorithmic-Biology-Talk/talk1.2.jpg&quot; /&gt;  
+&lt;tr&gt;&lt;td&gt;&lt;img src=&quot;/images/Algorithmic-Biology-Talk/talk1.3.jpg&quot; /&gt;    
+
 &lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://mnp-club.github.io//events/algo-bio/&quot;&gt;Algorithmic Biology&lt;/a&gt; was originally published by Maths And Physics Club at &lt;a href=&quot;http://mnp-club.github.io/&quot;&gt;Maths & Physics Club&lt;/a&gt; on October 28, 2016.&lt;/p&gt;
