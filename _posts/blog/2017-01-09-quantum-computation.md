@@ -14,7 +14,9 @@ date: 2017-01-09T10:19:07+00:00
 ___The following article was written for and published by the annual newsletter of Dept. of Physics, IIT Bombay in collaboration with Insight, the student media body of IITB, in the Autumn semester of my freshmen year (2015). It is aimed at providing a brief info to the latest advancements in the field of quantum computing and what lies ahead.___
 
 ![Quantum Computation](http://www.doc.ic.ac.uk/~ids/dotdot/misc/images/dilbert-dt970322_295.gif)
+
 ### A New Hope
+
 Our story begins with a team of researchers at The University of New South Wales(UNSW), Australia, led by Andrew Dzurak who have successfully 
 accomplished the making of a two qubit logic gate in silicon, which is a crucial hurdle overcome in making quantum computers
 a reality. “What we have is a game changer,” says team leader Prof. Dzurak.
